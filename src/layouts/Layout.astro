@@ -1,0 +1,79 @@
+---
+import '../styles/global.css';
+
+interface Props {
+	title: string;
+	description?: string;
+	activeNav?: 'setlist' | 'queue';
+	wide?: boolean;
+}
+
+const {
+	title,
+	description = 'Guitar Hero party setlist and live stage queue',
+	activeNav,
+	wide = false,
+} = Astro.props;
+
+const navItems: { key: Props['activeNav']; href: string; label: string }[] = [
+	{ key: 'setlist', href: '/', label: 'Setlist' },
+	{ key: 'queue', href: '/queue', label: 'Stage Queue' },
+];
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content={description} />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&display=swap"
+			rel="stylesheet"
+		/>
+		<title>{title}</title>
+	</head>
+	<body>
+		<div
+			class:list={[
+				'mx-auto flex min-h-screen flex-col px-4 py-4 sm:px-6 lg:px-8',
+				wide ? 'max-w-[1400px]' : 'max-w-6xl',
+			]}
+		>
+			<header class="mb-6 rounded-2xl border border-stage-border bg-stage-panel/80 p-4 backdrop-blur sm:p-5">
+				<div class="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+					<div>
+						<p class="text-xs font-semibold uppercase tracking-[0.3em] text-stage-cyan">Party mode</p>
+						<h1 class="font-display text-4xl leading-none text-white sm:text-5xl">
+							Guitar Hero <span class="text-stage-neon">Arcade</span>
+						</h1>
+					</div>
+					<nav class="flex flex-wrap gap-2">
+						{
+							navItems.map((item) => (
+								<a
+									href={item.href}
+									class:list={[
+										'rounded-lg px-4 py-2 text-sm font-semibold uppercase tracking-wide transition',
+										activeNav === item.key
+											? 'bg-stage-neon text-black shadow-neon'
+											: 'text-zinc-300 hover:bg-stage-panel hover:text-white',
+									]}
+								>
+									{item.label}
+								</a>
+							))
+						}
+					</nav>
+				</div>
+			</header>
+
+			<main class="flex-1">
+				<slot />
+			</main>
+		</div>
+	</body>
+</html>

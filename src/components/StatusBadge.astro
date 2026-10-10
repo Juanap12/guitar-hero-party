@@ -1,0 +1,19 @@
+---
+import type { SongStatus } from '../types/song';
+
+interface Props {
+	status: SongStatus;
+}
+
+const { status } = Astro.props;
+
+const styles: Record<SongStatus, string> = {
+	AVAILABLE: 'bg-stage-lime/15 text-stage-lime border-stage-lime/40',
+	RESERVED: 'bg-stage-amber/15 text-stage-amber border-stage-amber/40',
+	PLAYED: 'bg-zinc-500/15 text-zinc-300 border-zinc-500/40',
+};
+---
+
+<span class:list={['inline-flex rounded-full border px-2.5 py-0.5 text-xs font-semibold uppercase', styles[status]]}>
+	{status}
+</span>

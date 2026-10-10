@@ -1,0 +1,301 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Stage Queue | Guitar Hero Party" activeNav="queue" wide={true}>
+	<section class="mb-6 rounded-2xl border border-stage-cyan/30 bg-stage-panel/80 p-6 text-center shadow-neon-cyan">
+		<p class="text-sm font-semibold uppercase tracking-[0.35em] text-stage-cyan">Live stage queue</p>
+		<h2 class="font-display text-5xl text-white sm:text-6xl">Up next</h2>
+		<p class="mt-2 text-sm text-zinc-400">Auto-refreshes every 3 seconds</p>
+	</section>
+
+	<div id="queue-root" class="space-y-4">
+		<p class="rounded-xl border border-stage-border p-8 text-center text-zinc-400">Loading queue...</p>
+	</div>
+
+	<section class="mt-10">
+		<h2 class="mb-4 font-display text-4xl text-zinc-200">Recently played</h2>
+		<div id="played-root" class="space-y-3">
+			<p class="text-zinc-500">Loading...</p>
+		</div>
+	</section>
+
+	<div
+		id="edit-modal"
+		class="fixed inset-0 z-50 hidden items-center justify-center bg-black/70 p-4"
+		role="dialog"
+		aria-modal="true"
+		aria-labelledby="edit-modal-title"
+	>
+		<div class="w-full max-w-lg rounded-2xl border border-stage-cyan/40 bg-stage-panel p-6 shadow-neon-cyan">
+			<h2 id="edit-modal-title" class="font-display text-3xl text-white">Edit lineup</h2>
+			<p id="edit-modal-subtitle" class="mt-1 text-sm text-zinc-400"></p>
+			<form id="edit-form" class="mt-5 grid gap-3 sm:grid-cols-2">
+				<label class="block text-xs uppercase tracking-wide text-zinc-400">
+					Voice
+					<input
+						name="singer"
+						maxlength="80"
+						class="mt-1 w-full rounded-lg border border-stage-border bg-black/40 px-3 py-2 text-sm text-white"
+					/>
+				</label>
+				<label class="block text-xs uppercase tracking-wide text-zinc-400">
+					Guitar 1
+					<input
+						name="guitar_1"
+						maxlength="80"
+						class="mt-1 w-full rounded-lg border border-stage-border bg-black/40 px-3 py-2 text-sm text-white"
+					/>
+				</label>
+				<label class="block text-xs uppercase tracking-wide text-zinc-400">
+					Guitar 2
+					<input
+						name="guitar_2"
+						maxlength="80"
+						class="mt-1 w-full rounded-lg border border-stage-border bg-black/40 px-3 py-2 text-sm text-white"
+					/>
+				</label>
+				<label class="block text-xs uppercase tracking-wide text-zinc-400">
+					Drums
+					<input
+						name="drums"
+						maxlength="80"
+						class="mt-1 w-full rounded-lg border border-stage-border bg-black/40 px-3 py-2 text-sm text-white"
+					/>
+				</label>
+				<p id="edit-error" class="hidden sm:col-span-2 text-sm text-red-400"></p>
+				<div class="sm:col-span-2 flex flex-wrap gap-2 pt-1">
+					<button
+						type="submit"
+						class="rounded-lg bg-stage-cyan px-4 py-2 text-xs font-bold uppercase tracking-wide text-black"
+					>
+						Save lineup
+					</button>
+					<button
+						type="button"
+						id="edit-cancel"
+						class="rounded-lg border border-stage-border px-4 py-2 text-xs font-semibold uppercase text-zinc-300"
+					>
+						Cancel
+					</button>
+				</div>
+			</form>
+		</div>
+	</div>
+</Layout>
+
+<script>
+	/** @type {Array<Record<string, unknown>>} */
+	let latestQueue = [];
+	/** @type {number | null} */
+	let editingSongId = null;
+
+	const editModal = document.getElementById('edit-modal');
+	const editForm = document.getElementById('edit-form');
+	const editCancel = document.getElementById('edit-cancel');
+	const editSubtitle = document.getElementById('edit-modal-subtitle');
+	const editError = document.getElementById('edit-error');
+
+	function escapeHtml(value) {
+		return value
+			.replaceAll('&', '&amp;')
+			.replaceAll('<', '&lt;')
+			.replaceAll('>', '&gt;')
+			.replaceAll('"', '&quot;');
+	}
+
+	function roleChip(label, value) {
+		if (!value) return '';
+		return `<li class="rounded-md border border-stage-border bg-black/30 px-3 py-1.5 text-sm"><span class="font-semibold text-stage-cyan">${label}</span> ${escapeHtml(String(value))}</li>`;
+	}
+
+	function renderQueue(queue) {
+		latestQueue = queue;
+		const root = document.getElementById('queue-root');
+		if (!root) return;
+
+		if (!queue.length) {
+			root.innerHTML =
+				'<p class="rounded-xl border border-dashed border-stage-border p-12 text-center text-xl text-zinc-400">Queue is empty — reserve a song from the setlist.</p>';
+			return;
+		}
+
+		root.innerHTML = queue
+			.map(
+				(song, index) => `
+				<article class="rounded-2xl border border-stage-border bg-stage-panel/90 p-5 sm:p-6">
+					<div class="flex flex-col gap-4 lg:flex-row lg:items-start lg:justify-between">
+						<div class="min-w-0 flex-1">
+							<p class="text-sm font-bold uppercase tracking-[0.25em] text-stage-neon">#${index + 1} in line</p>
+							<h3 class="font-display text-4xl leading-tight text-white sm:text-5xl">${escapeHtml(song.title)}</h3>
+							<p class="mt-1 text-xl text-zinc-300">${escapeHtml(song.band)}</p>
+							<ul class="mt-4 flex flex-wrap gap-2">
+								${roleChip('Voice', song.singer)}
+								${roleChip('Guitar 1', song.guitar_1)}
+								${roleChip('Guitar 2', song.guitar_2)}
+								${roleChip('Drums', song.drums)}
+							</ul>
+						</div>
+						<div class="flex shrink-0 flex-wrap gap-2">
+							<button type="button" data-action="edit" data-id="${song.id}" class="queue-action rounded-xl border border-stage-cyan/50 px-4 py-3 text-sm font-bold text-stage-cyan" title="Edit lineup">✏️ Edit</button>
+							<button type="button" data-action="played" data-id="${song.id}" class="queue-action rounded-xl bg-stage-lime px-4 py-3 text-sm font-bold text-black" title="Mark as played">✅ Played</button>
+							<button type="button" data-action="release" data-id="${song.id}" class="queue-action rounded-xl border border-stage-border px-4 py-3 text-sm text-zinc-200" title="Release / cancel">🔄 Release</button>
+						</div>
+					</div>
+				</article>
+			`,
+			)
+			.join('');
+
+		root.querySelectorAll('.queue-action').forEach((button) => {
+			button.addEventListener('click', async () => {
+				const el = button;
+				const id = Number(el.getAttribute('data-id'));
+				const action = el.getAttribute('data-action');
+				if (action === 'edit') {
+					openEditModal(id);
+					return;
+				}
+				const status = action === 'played' ? 'PLAYED' : 'AVAILABLE';
+				await postStatus(id, status);
+			});
+		});
+	}
+
+	function renderPlayed(played) {
+		const root = document.getElementById('played-root');
+		if (!root) return;
+
+		if (!played.length) {
+			root.innerHTML = '<p class="rounded-xl border border-dashed border-stage-border p-6 text-center text-zinc-500">No played songs yet.</p>';
+			return;
+		}
+
+		root.innerHTML = played
+			.map(
+				(song) => `
+				<article class="flex flex-col gap-3 rounded-xl border border-stage-border bg-stage-panel/70 p-4 sm:flex-row sm:items-center sm:justify-between">
+					<div>
+						<h3 class="font-display text-2xl text-white">${escapeHtml(song.title)}</h3>
+						<p class="text-sm text-zinc-400">${escapeHtml(song.band)}</p>
+					</div>
+					<button type="button" data-restore-id="${song.id}" class="restore-btn rounded-lg border border-stage-cyan/50 px-4 py-2 text-xs font-bold uppercase text-stage-cyan">🔄 Restore to Available</button>
+				</article>
+			`,
+			)
+			.join('');
+
+		root.querySelectorAll('.restore-btn').forEach((button) => {
+			button.addEventListener('click', async () => {
+				const id = Number((/** @type {HTMLButtonElement} */ (button)).dataset.restoreId);
+				await postStatus(id, 'AVAILABLE');
+			});
+		});
+	}
+
+	async function postStatus(id, status) {
+		const response = await fetch('/api/status', {
+			method: 'POST',
+			headers: { 'Content-Type': 'application/json' },
+			body: JSON.stringify({ id, status }),
+		});
+		if (!response.ok) {
+			const payload = await response.json();
+			alert(payload.error ?? 'Update failed');
+			return;
+		}
+		await refreshAll();
+	}
+
+	function openEditModal(id) {
+		const song = latestQueue.find((entry) => Number(entry.id) === id);
+		if (!song) return;
+		editingSongId = id;
+		if (editSubtitle) {
+			editSubtitle.textContent = `${song.title} — ${song.band}`;
+		}
+		if (editError) {
+			editError.textContent = '';
+			editError.classList.add('hidden');
+		}
+		if (editForm instanceof HTMLFormElement) {
+			const setField = (name, value) => {
+				const input = editForm.elements.namedItem(name);
+				if (input instanceof HTMLInputElement) {
+					input.value = value ? String(value) : '';
+				}
+			};
+			setField('singer', song.singer);
+			setField('guitar_1', song.guitar_1);
+			setField('guitar_2', song.guitar_2);
+			setField('drums', song.drums);
+		}
+		if (editModal) {
+			editModal.classList.remove('hidden');
+			editModal.classList.add('flex');
+		}
+	}
+
+	function closeEditModal() {
+		editingSongId = null;
+		if (editModal) {
+			editModal.classList.add('hidden');
+			editModal.classList.remove('flex');
+		}
+	}
+
+	editCancel?.addEventListener('click', closeEditModal);
+	editModal?.addEventListener('click', (event) => {
+		if (event.target === editModal) closeEditModal();
+	});
+
+	editForm?.addEventListener('submit', async (event) => {
+		event.preventDefault();
+		if (!editingSongId || !(editForm instanceof HTMLFormElement)) return;
+
+		const data = new FormData(editForm);
+		const response = await fetch('/api/reserve', {
+			method: 'POST',
+			headers: { 'Content-Type': 'application/json' },
+			body: JSON.stringify({
+				id: editingSongId,
+				singer: data.get('singer'),
+				guitar_1: data.get('guitar_1'),
+				guitar_2: data.get('guitar_2'),
+				drums: data.get('drums'),
+			}),
+		});
+
+		if (!response.ok) {
+			const payload = await response.json();
+			if (editError) {
+				editError.textContent = payload.error ?? 'Could not save lineup';
+				editError.classList.remove('hidden');
+			}
+			return;
+		}
+
+		closeEditModal();
+		await refreshAll();
+	});
+
+	async function refreshAll() {
+		try {
+			const [queueRes, playedRes] = await Promise.all([fetch('/api/queue'), fetch('/api/played')]);
+			if (!queueRes.ok || !playedRes.ok) throw new Error('Fetch failed');
+			const queue = await queueRes.json();
+			const played = await playedRes.json();
+			renderQueue(queue);
+			renderPlayed(played);
+		} catch {
+			const queueRoot = document.getElementById('queue-root');
+			if (queueRoot) {
+				queueRoot.innerHTML =
+					'<p class="rounded-xl border border-red-500/40 p-8 text-center text-red-300">Could not load queue. Check database configuration.</p>';
+			}
+		}
+	}
+
+	refreshAll();
+	setInterval(refreshAll, 3000);
+</script>

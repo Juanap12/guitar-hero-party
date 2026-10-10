@@ -1,0 +1,30 @@
+---
+import type { Song } from '../types/song';
+
+interface Props {
+	song: Song;
+}
+
+const { song } = Astro.props;
+
+const roles = [
+	{ label: 'Vox', value: song.singer },
+	{ label: 'G1', value: song.guitar_1 },
+	{ label: 'G2', value: song.guitar_2 },
+	{ label: 'Drums', value: song.drums },
+].filter((role) => role.value);
+---
+
+{
+	roles.length ? (
+		<ul class="mt-2 flex flex-wrap gap-2">
+			{roles.map((role) => (
+				<li class="rounded-md border border-stage-border bg-black/30 px-2 py-1 text-xs text-zinc-200">
+					<span class="font-semibold text-stage-cyan">{role.label}</span> {role.value}
+				</li>
+			))}
+		</ul>
+	) : (
+		<p class="mt-2 text-xs text-zinc-500">No roster assigned yet.</p>
+	)
+}
