@@ -1,2866 +1,2914 @@
 [
-	{
-		"title": "Kryptonite",
-		"band": "3 Doors Down"
-	},
-	{
-		"title": "Closer to the Edge",
-		"band": "30 Seconds to Mars"
-	},
-	{
-		"title": "From Yesterday",
-		"band": "30 Seconds to Mars"
-	},
-	{
-		"title": "Kings and Queens",
-		"band": "30 Seconds to Mars"
-	},
-	{
-		"title": "The Kill",
-		"band": "30 Seconds to Mars"
-	},
-	{
-		"title": "This Is War",
-		"band": "30 Seconds to Mars"
-	},
-	{
-		"title": "Beautiful Disaster",
-		"band": "311"
-	},
-	{
-		"title": "All I Want",
-		"band": "A Day to Remember"
-	},
-	{
-		"title": "Have Faith in Me",
-		"band": "A Day to Remember"
-	},
-	{
-		"title": "If It Means a Lot to You",
-		"band": "A Day to Remember"
-	},
-	{
-		"title": "Right Back at It Again",
-		"band": "A Day to Remember"
-	},
-	{
-		"title": "The Downfall of Us All",
-		"band": "A Day to Remember"
-	},
-	{
-		"title": "Judith",
-		"band": "A Perfect Circle"
-	},
-	{
-		"title": "The Outsider",
-		"band": "A Perfect Circle"
-	},
-	{
-		"title": "T.N.T.",
-		"band": "AC/DC"
-	},
-	{
-		"title": "Dancing Through Sunday",
-		"band": "AFI"
-	},
-	{
-		"title": "Medicate",
-		"band": "AFI"
-	},
-	{
-		"title": "Cryin'",
-		"band": "Aerosmith"
-	},
-	{
-		"title": "Too Much, Too Young, Too Fast",
-		"band": "Airbourne"
-	},
-	{
-		"title": "Elected",
-		"band": "Alice Cooper"
-	},
-	{
-		"title": "No More Mr. Nice Guy",
-		"band": "Alice Cooper"
-	},
-	{
-		"title": "Check My Brain",
-		"band": "Alice in Chains"
-	},
-	{
-		"title": "Man in the Box",
-		"band": "Alice in Chains"
-	},
-	{
-		"title": "No Excuses",
-		"band": "Alice in Chains"
-	},
-	{
-		"title": "Rooster",
-		"band": "Alice in Chains"
-	},
-	{
-		"title": "Them Bones",
-		"band": "Alice in Chains"
-	},
-	{
-		"title": "Would?",
-		"band": "Alice in Chains"
-	},
-	{
-		"title": "Fascination",
-		"band": "Alphabeat"
-	},
-	{
-		"title": "Ties That Bind",
-		"band": "Alter Bridge"
-	},
-	{
-		"title": "The Feel Good Drag",
-		"band": "Anberlin"
-	},
-	{
-		"title": "Good God",
-		"band": "Anouk"
-	},
-	{
-		"title": "Indians",
-		"band": "Anthrax"
-	},
-	{
-		"title": "Nemesis",
-		"band": "Arch Enemy"
-	},
-	{
-		"title": "One Armed Scissor",
-		"band": "At the Drive-In"
-	},
-	{
-		"title": "Ravenous",
-		"band": "Atreyu"
-	},
-	{
-		"title": "You and Me",
-		"band": "Attack! Attack!"
-	},
-	{
-		"title": "Afterlife",
-		"band": "Avenged Sevenfold"
-	},
-	{
-		"title": "Almost Easy",
-		"band": "Avenged Sevenfold"
-	},
-	{
-		"title": "Bat Country",
-		"band": "Avenged Sevenfold"
-	},
-	{
-		"title": "Hail to the King",
-		"band": "Avenged Sevenfold"
-	},
-	{
-		"title": "Nightmare",
-		"band": "Avenged Sevenfold"
-	},
-	{
-		"title": "Scream",
-		"band": "Avenged Sevenfold"
-	},
-	{
-		"title": "Shepherd of Fire",
-		"band": "Avenged Sevenfold"
-	},
-	{
-		"title": "So Far Away",
-		"band": "Avenged Sevenfold"
-	},
-	{
-		"title": "Welcome to the Family",
-		"band": "Avenged Sevenfold"
-	},
-	{
-		"title": "Re-Ignition (Live)",
-		"band": "Bad Brains"
-	},
-	{
-		"title": "Cigarettes, Wedding Bands",
-		"band": "Band Of Horses"
-	},
-	{
-		"title": "I Know What I Am",
-		"band": "Band of Skulls"
-	},
-	{
-		"title": "Brass Monkey",
-		"band": "Beastie Boys"
-	},
-	{
-		"title": "Fight for Your Right",
-		"band": "Beastie Boys"
-	},
-	{
-		"title": "Gratitude",
-		"band": "Beastie Boys"
-	},
-	{
-		"title": "Intergalactic",
-		"band": "Beastie Boys"
-	},
-	{
-		"title": "Sabotage",
-		"band": "Beastie Boys"
-	},
-	{
-		"title": "No Sleep Till Brooklyn",
-		"band": "Beastie Boys featuring Kerry King"
-	},
-	{
-		"title": "Hail to the Freaks",
-		"band": "Beatsteaks"
-	},
-	{
-		"title": "Gamma Ray",
-		"band": "Beck"
-	},
-	{
-		"title": "Steal My Kisses",
-		"band": "Ben Harper and the Innocent Criminals"
-	},
-	{
-		"title": "In a Big Country",
-		"band": "Big Country"
-	},
-	{
-		"title": "Dancing with Myself",
-		"band": "Billy Idol"
-	},
-	{
-		"title": "Rebel Yell",
-		"band": "Billy Idol"
-	},
-	{
-		"title": "White Wedding",
-		"band": "Billy Idol"
-	},
-	{
-		"title": "Lonely is the Night",
-		"band": "Billy Squier"
-	},
-	{
-		"title": "Stillborn",
-		"band": "Black Label Society"
-	},
-	{
-		"title": "Weapon of Choice",
-		"band": "Black Rebel Motorcycle Club"
-	},
-	{
-		"title": "Children of the Grave",
-		"band": "Black Sabbath"
-	},
-	{
-		"title": "Heaven and Hell",
-		"band": "Black Sabbath"
-	},
-	{
-		"title": "Iron Man",
-		"band": "Black Sabbath"
-	},
-	{
-		"title": "N.I.B.",
-		"band": "Black Sabbath"
-	},
-	{
-		"title": "Sabbath Bloody Sabbath",
-		"band": "Black Sabbath"
-	},
-	{
-		"title": "Sweet Leaf",
-		"band": "Black Sabbath"
-	},
-	{
-		"title": "War Pigs",
-		"band": "Black Sabbath"
-	},
-	{
-		"title": "Tones of Home",
-		"band": "Blind Melon"
-	},
-	{
-		"title": "Dammit",
-		"band": "Blink-182"
-	},
-	{
-		"title": "First Date",
-		"band": "Blink-182"
-	},
-	{
-		"title": "The Rock Show",
-		"band": "Blink-182"
-	},
-	{
-		"title": "One Way or Another",
-		"band": "Blondie"
-	},
-	{
-		"title": "Burnin' for You",
-		"band": "Blue Öyster Cult"
-	},
-	{
-		"title": "Godzilla",
-		"band": "Blue Öyster Cult"
-	},
-	{
-		"title": "Song 2",
-		"band": "Blur"
-	},
-	{
-		"title": "All Along the Watchtower",
-		"band": "Bob Dylan"
-	},
-	{
-		"title": "Hollywood Nights",
-		"band": "Bob Seger & The Silver Bullet Band"
-	},
-	{
-		"title": "Livin' on a Prayer",
-		"band": "Bon Jovi"
-	},
-	{
-		"title": "You Give Love a Bad Name",
-		"band": "Bon Jovi"
-	},
-	{
-		"title": "More Than a Feeling",
-		"band": "Boston"
-	},
-	{
-		"title": "Rookie",
-		"band": "Boy Sets Fire"
-	},
-	{
-		"title": "Sowing Season (Yeah)",
-		"band": "Brand New"
-	},
-	{
-		"title": "Scream Aim Fire",
-		"band": "Bullet for My Valentine"
-	},
-	{
-		"title": "Comedown",
-		"band": "Bush"
-	},
-	{
-		"title": "Machinehead",
-		"band": "Bush"
-	},
-	{
-		"title": "What Do I Get?",
-		"band": "Buzzcocks"
-	},
-	{
-		"title": "Kung Fu Fighting",
-		"band": "Carl Douglas"
-	},
-	{
-		"title": "I Want You to Want Me (Live)",
-		"band": "Cheap Trick"
-	},
-	{
-		"title": "Done with Everything, Die for Nothing",
-		"band": "Children Of Bodom"
-	},
-	{
-		"title": "If You Want Peace... Prepare for War",
-		"band": "Children of Bodom"
-	},
-	{
-		"title": "Hang Me Up to Dry",
-		"band": "Cold War Kids"
-	},
-	{
-		"title": "In My Place",
-		"band": "Coldplay"
-	},
-	{
-		"title": "Shiver",
-		"band": "Coldplay"
-	},
-	{
-		"title": "Put Your Records On",
-		"band": "Corinne Bailey Rae"
-	},
-	{
-		"title": "Albatross",
-		"band": "Corrosion of Conformity"
-	},
-	{
-		"title": "Angels of the Silences",
-		"band": "Counting Crows"
-	},
-	{
-		"title": "Fortunate Son",
-		"band": "Creedence Clearwater Revival"
-	},
-	{
-		"title": "Up Around the Bend",
-		"band": "Creedence Clearwater Revival"
-	},
-	{
-		"title": "Do You Really Want to Hurt Me",
-		"band": "Culture Club"
-	},
-	{
-		"title": "Demon(s)",
-		"band": "Darkest Hour"
-	},
-	{
-		"title": "Hands Down",
-		"band": "Dashboard Confessional"
-	},
-	{
-		"title": "Fame",
-		"band": "David Bowie"
-	},
-	{
-		"title": "Let's Dance",
-		"band": "David Bowie"
-	},
-	{
-		"title": "Burn",
-		"band": "Deep Purple"
-	},
-	{
-		"title": "Smoke on the Water",
-		"band": "Deep Purple"
-	},
-	{
-		"title": "Space Truckin'",
-		"band": "Deep Purple"
-	},
-	{
-		"title": "Woman from Tokyo ('99 Remix)",
-		"band": "Deep Purple"
-	},
-	{
-		"title": "Pour Some Sugar on Me (Live)",
-		"band": "Def Leppard"
-	},
-	{
-		"title": "Bloodlines",
-		"band": "Dethklok"
-	},
-	{
-		"title": "Like a Fool",
-		"band": "Devo"
-	},
-	{
-		"title": "Whip It",
-		"band": "Devo"
-	},
-	{
-		"title": "Feel The Pain",
-		"band": "Dinosaur Jr."
-	},
-	{
-		"title": "Money for Nothing",
-		"band": "Dire Straits"
-	},
-	{
-		"title": "Sultans of Swing",
-		"band": "Dire Straits"
-	},
-	{
-		"title": "American Pie",
-		"band": "Don McLean"
-	},
-	{
-		"title": "Fury of the Storm",
-		"band": "DragonForce"
-	},
-	{
-		"title": "Through the Fire and Flames",
-		"band": "DragonForce"
-	},
-	{
-		"title": "Pull Me Under",
-		"band": "Dream Theater"
-	},
-	{
-		"title": "Bodies",
-		"band": "Drowning Pool"
-	},
-	{
-		"title": "Warwick Avenue",
-		"band": "Duffy"
-	},
-	{
-		"title": "Hungry Like the Wolf",
-		"band": "Duran Duran"
-	},
-	{
-		"title": "Rio",
-		"band": "Duran Duran"
-	},
-	{
-		"title": "Wannabe in L.A.",
-		"band": "Eagles Of Death Metal"
-	},
-	{
-		"title": "L.A.",
-		"band": "Elliott Smith"
-	},
-	{
-		"title": "Saturday Night's Alright (For Fighting)",
-		"band": "Elton John"
-	},
-	{
-		"title": "Bring Me to Life",
-		"band": "Evanescence"
-	},
-	{
-		"title": "Call Me When You're Sober",
-		"band": "Evanescence"
-	},
-	{
-		"title": "Santa Monica",
-		"band": "Everclear"
-	},
-	{
-		"title": "Play With Me",
-		"band": "Extreme"
-	},
-	{
-		"title": "Disconnected",
-		"band": "Face to Face"
-	},
-	{
-		"title": "Dance, Dance",
-		"band": "Fall Out Boy"
-	},
-	{
-		"title": "Sugar, We're Goin Down",
-		"band": "Fall Out Boy"
-	},
-	{
-		"title": "Hey Man, Nice Shot",
-		"band": "Filter"
-	},
-	{
-		"title": "Paralyzer",
-		"band": "Finger Eleven"
-	},
-	{
-		"title": "Hard to See",
-		"band": "Five Finger Punch"
-	},
-	{
-		"title": "Go Your Own Way",
-		"band": "Fleetwood Mac"
-	},
-	{
-		"title": "Again",
-		"band": "Flyleaf"
-	},
-	{
-		"title": "All My Life",
-		"band": "Foo Fighters"
-	},
-	{
-		"title": "Best of You",
-		"band": "Foo Fighters"
-	},
-	{
-		"title": "Everlong",
-		"band": "Foo Fighters"
-	},
-	{
-		"title": "Monkey Wrench",
-		"band": "Foo Fighters"
-	},
-	{
-		"title": "No Way Back",
-		"band": "Foo Fighters"
-	},
-	{
-		"title": "Rope",
-		"band": "Foo Fighters"
-	},
-	{
-		"title": "The Pretender",
-		"band": "Foo Fighters"
-	},
-	{
-		"title": "Walk",
-		"band": "Foo Fighters"
-	},
-	{
-		"title": "Wheels",
-		"band": "Foo Fighters"
-	},
-	{
-		"title": "Feels Like the First Time",
-		"band": "Foreigner"
-	},
-	{
-		"title": "Juke Box Hero",
-		"band": "Foreigner"
-	},
-	{
-		"title": "Take Me Out",
-		"band": "Franz Ferdinand"
-	},
-	{
-		"title": "Only Happy When It Rains",
-		"band": "Garbage"
-	},
-	{
-		"title": "Move It On Over (Live)",
-		"band": "George Thorogood and the Destroyers"
-	},
-	{
-		"title": "Best Thing That Ever Happened to Me",
-		"band": "Gladys Knight & the Pips"
-	},
-	{
-		"title": "Daddy Could Swear, I Declare",
-		"band": "Gladys Knight & the Pips"
-	},
-	{
-		"title": "If I Were Your Woman",
-		"band": "Gladys Knight & the Pips"
-	},
-	{
-		"title": "Midnight Train to Georgia",
-		"band": "Gladys Knight & the Pips"
-	},
-	{
-		"title": "Neither One of Us",
-		"band": "Gladys Knight & the Pips"
-	},
-	{
-		"title": "Name",
-		"band": "Goo Goo Dolls"
-	},
-	{
-		"title": "Feel Good Inc.",
-		"band": "Gorillaz"
-	},
-	{
-		"title": "Streamline Woman",
-		"band": "Gov't Mule"
-	},
-	{
-		"title": "We're an American Band",
-		"band": "Grand Funk Railroad"
-	},
-	{
-		"title": "21 Guns",
-		"band": "Green Day"
-	},
-	{
-		"title": "American Idiot",
-		"band": "Green Day"
-	},
-	{
-		"title": "Basket Case",
-		"band": "Green Day"
-	},
-	{
-		"title": "Boulevard of Broken Dreams",
-		"band": "Green Day"
-	},
-	{
-		"title": "Brain Stew",
-		"band": "Green Day"
-	},
-	{
-		"title": "Good Riddance (Time of Your Life)",
-		"band": "Green Day"
-	},
-	{
-		"title": "Holiday",
-		"band": "Green Day"
-	},
-	{
-		"title": "Know Your Enemy",
-		"band": "Green Day"
-	},
-	{
-		"title": "Last of the American Girls",
-		"band": "Green Day"
-	},
-	{
-		"title": "Longview",
-		"band": "Green Day"
-	},
-	{
-		"title": "Minority",
-		"band": "Green Day"
-	},
-	{
-		"title": "Welcome to Paradise",
-		"band": "Green Day"
-	},
-	{
-		"title": "When I Come Around",
-		"band": "Green Day"
-	},
-	{
-		"title": "Civil War",
-		"band": "Guns N' Roses"
-	},
-	{
-		"title": "Don't Cry",
-		"band": "Guns N' Roses"
-	},
-	{
-		"title": "Knockin' on Heaven's Door",
-		"band": "Guns N' Roses"
-	},
-	{
-		"title": "Live and Let Die",
-		"band": "Guns N' Roses"
-	},
-	{
-		"title": "Nightrain",
-		"band": "Guns N' Roses"
-	},
-	{
-		"title": "November Rain",
-		"band": "Guns N' Roses"
-	},
-	{
-		"title": "Paradise City",
-		"band": "Guns N' Roses"
-	},
-	{
-		"title": "Patience",
-		"band": "Guns N' Roses"
-	},
-	{
-		"title": "Sweet Child O' Mine",
-		"band": "Guns N' Roses"
-	},
-	{
-		"title": "Sweet Child O' Mine (Live)",
-		"band": "Guns N' Roses"
-	},
-	{
-		"title": "Welcome to the Jungle",
-		"band": "Guns N' Roses"
-	},
-	{
-		"title": "You Could Be Mine",
-		"band": "Guns N' Roses"
-	},
-	{
-		"title": "Unsung",
-		"band": "Helmet"
-	},
-	{
-		"title": "So Yesterday",
-		"band": "Hilary Duff"
-	},
-	{
-		"title": "Lips of an Angel",
-		"band": "Hinder"
-	},
-	{
-		"title": "You're Gonna Say Yeah!",
-		"band": "HushPuppies"
-	},
-	{
-		"title": "Lust for Life (Live)",
-		"band": "Iggy Pop"
-	},
-	{
-		"title": "Stellar",
-		"band": "Incubus"
-	},
-	{
-		"title": "Obstacle 1",
-		"band": "Interpol"
-	},
-	{
-		"title": "Slow Hands",
-		"band": "Interpol"
-	},
-	{
-		"title": "2 Minutes to Midnight",
-		"band": "Iron Maiden"
-	},
-	{
-		"title": "The Number of the Beast",
-		"band": "Iron Maiden"
-	},
-	{
-		"title": "Been Caught Stealing",
-		"band": "Jane's Addiction"
-	},
-	{
-		"title": "Mountain Song",
-		"band": "Jane's Addiction"
-	},
-	{
-		"title": "Black Cat",
-		"band": "Janet Jackson"
-	},
-	{
-		"title": "Scatterbrain (Live)",
-		"band": "Jeff Beck"
-	},
-	{
-		"title": "Beautiful Soul",
-		"band": "Jesse McCartney"
-	},
-	{
-		"title": "Aqualung",
-		"band": "Jethro Tull"
-	},
-	{
-		"title": "Bold as Love",
-		"band": "Jimi Hendrix"
-	},
-	{
-		"title": "Castles Made of Sand",
-		"band": "Jimi Hendrix"
-	},
-	{
-		"title": "Crosstown Traffic",
-		"band": "Jimi Hendrix"
-	},
-	{
-		"title": "Fire",
-		"band": "Jimi Hendrix"
-	},
-	{
-		"title": "Foxy Lady",
-		"band": "Jimi Hendrix"
-	},
-	{
-		"title": "Little Wing",
-		"band": "Jimi Hendrix"
-	},
-	{
-		"title": "The Wind Cries Mary",
-		"band": "Jimi Hendrix"
-	},
-	{
-		"title": "Voodoo Child (Slight Return)",
-		"band": "Jimi Hendrix"
-	},
-	{
-		"title": "Bleed American",
-		"band": "Jimmy Eat World"
-	},
-	{
-		"title": "Pain",
-		"band": "Jimmy Eat World"
-	},
-	{
-		"title": "The Middle",
-		"band": "Jimmy Eat World"
-	},
-	{
-		"title": "Bad Reputation",
-		"band": "Joan Jett"
-	},
-	{
-		"title": "I Love Rock 'n Roll",
-		"band": "Joan Jett and the Blackhearts"
-	},
-	{
-		"title": "Satch Boogie",
-		"band": "Joe Satriani"
-	},
-	{
-		"title": "Black Widow of La Porte",
-		"band": "John 5"
-	},
-	{
-		"title": "Hurts So Good",
-		"band": "John Mellencamp"
-	},
-	{
-		"title": "Ring of Fire",
-		"band": "Johnny Cash"
-	},
-	{
-		"title": "You Had Me",
-		"band": "Joss Stone"
-	},
-	{
-		"title": "Electric Eye",
-		"band": "Judas Priest"
-	},
-	{
-		"title": "Never Miss a Beat",
-		"band": "Kaiser Chiefs"
-	},
-	{
-		"title": "Walking on Sunshine",
-		"band": "Katrina and the Waves"
-	},
-	{
-		"title": "Vinternoll2",
-		"band": "Kent"
-	},
-	{
-		"title": "Deep Impact",
-		"band": "Killswitch Engage"
-	},
-	{
-		"title": "End of Heartache",
-		"band": "Killswitch Engage"
-	},
-	{
-		"title": "21st Century Schizoid Man",
-		"band": "King Crimson"
-	},
-	{
-		"title": "Sex on Fire",
-		"band": "Kings Of Leon"
-	},
-	{
-		"title": "Calling Dr. Love",
-		"band": "Kiss"
-	},
-	{
-		"title": "Detroit Rock City",
-		"band": "Kiss"
-	},
-	{
-		"title": "Love Gun",
-		"band": "Kiss"
-	},
-	{
-		"title": "Rock and Roll All Nite",
-		"band": "Kiss"
-	},
-	{
-		"title": "Shout It Out Loud",
-		"band": "Kiss"
-	},
-	{
-		"title": "Freak on a Leash",
-		"band": "Korn"
-	},
-	{
-		"title": "Demon Cleaner",
-		"band": "Kyuss"
-	},
-	{
-		"title": "Our Truth",
-		"band": "Lacuna Coil"
-	},
-	{
-		"title": "Are You Gonna Go My Way",
-		"band": "Lenny Kravitz"
-	},
-	{
-		"title": "Take What You Take",
-		"band": "Lily Allen"
-	},
-	{
-		"title": "Blackout",
-		"band": "Linkin Park"
-	},
-	{
-		"title": "Bleed It Out",
-		"band": "Linkin Park"
-	},
-	{
-		"title": "Burning in the Skies",
-		"band": "Linkin Park"
-	},
-	{
-		"title": "In the End",
-		"band": "Linkin Park"
-	},
-	{
-		"title": "Numb",
-		"band": "Linkin Park"
-	},
-	{
-		"title": "The Catalyst",
-		"band": "Linkin Park"
-	},
-	{
-		"title": "What I've Done",
-		"band": "Linkin Park"
-	},
-	{
-		"title": "Wretches and Kings",
-		"band": "Linkin Park"
-	},
-	{
-		"title": "Cult of Personality",
-		"band": "Living Colour"
-	},
-	{
-		"title": "La Bamba",
-		"band": "Los Lobos"
-	},
-	{
-		"title": "Rooftops (A Liberation Broadcast)",
-		"band": "Lostprophets"
-	},
-	{
-		"title": "Mirror People",
-		"band": "Love And Rockets"
-	},
-	{
-		"title": "Call Me the Breeze (Live)",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "Free Bird",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "Free Bird (Live)",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "Gimme Three Steps",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "I Need You",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "Need All My Friends",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "Red White & Blue (Love It or Leave It)",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "Saturday Night Special",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "Simple Man",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "Still Unbroken",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "Sweet Home Alabama",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "Sweet Home Alabama (Live)",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "That Smell",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "Was I Right or Wrong",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "What's Your Name",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "Whiskey Rock-a-Roller",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "You Got That Right",
-		"band": "Lynyrd Skynyrd"
-	},
-	{
-		"title": "Kick Out the Jams",
-		"band": "MC5's Wayne Kramer"
-	},
-	{
-		"title": "Kids",
-		"band": "MGMT"
-	},
-	{
-		"title": "Beautiful Mourning",
-		"band": "Machine Head"
-	},
-	{
-		"title": "Sex and Candy",
-		"band": "Marcy Playground"
-	},
-	{
-		"title": "She Will Be Loved",
-		"band": "Maroon 5"
-	},
-	{
-		"title": "I Heard It Through the Grapevine",
-		"band": "Marvin Gaye"
-	},
-	{
-		"title": "Blood and Thunder",
-		"band": "Mastodon"
-	},
-	{
-		"title": "Real World",
-		"band": "Matchbox 20"
-	},
-	{
-		"title": "Hangar 18",
-		"band": "Megadeth"
-	},
-	{
-		"title": "Holy Wars... The Punishment Due",
-		"band": "Megadeth"
-	},
-	{
-		"title": "Peace Sells",
-		"band": "Megadeth"
-	},
-	{
-		"title": "Sudden Death",
-		"band": "Megadeth"
-	},
-	{
-		"title": "Sweating Bullets",
-		"band": "Megadeth"
-	},
-	{
-		"title": "Symphony of Destruction",
-		"band": "Megadeth"
-	},
-	{
-		"title": "This Day We Fight!",
-		"band": "Megadeth"
-	},
-	{
-		"title": "Evil",
-		"band": "Mercyful Fate"
-	},
-	{
-		"title": "All Nightmare Long",
-		"band": "Metallica"
-	},
-	{
-		"title": "Battery",
-		"band": "Metallica"
-	},
-	{
-		"title": "Creeping Death",
-		"band": "Metallica"
-	},
-	{
-		"title": "Disposable Heroes",
-		"band": "Metallica"
-	},
-	{
-		"title": "Dyers Eve",
-		"band": "Metallica"
-	},
-	{
-		"title": "Enter Sandman",
-		"band": "Metallica"
-	},
-	{
-		"title": "Fade to Black",
-		"band": "Metallica"
-	},
-	{
-		"title": "Fight Fire with Fire",
-		"band": "Metallica"
-	},
-	{
-		"title": "For Whom the Bell Tolls",
-		"band": "Metallica"
-	},
-	{
-		"title": "Frantic",
-		"band": "Metallica"
-	},
-	{
-		"title": "Fuel",
-		"band": "Metallica"
-	},
-	{
-		"title": "Hit the Lights",
-		"band": "Metallica"
-	},
-	{
-		"title": "King Nothing",
-		"band": "Metallica"
-	},
-	{
-		"title": "Master of Puppets",
-		"band": "Metallica"
-	},
-	{
-		"title": "Mercyful Fate",
-		"band": "Metallica"
-	},
-	{
-		"title": "No Leaf Clover",
-		"band": "Metallica"
-	},
-	{
-		"title": "Nothing Else Matters",
-		"band": "Metallica"
-	},
-	{
-		"title": "One",
-		"band": "Metallica"
-	},
-	{
-		"title": "Orion",
-		"band": "Metallica"
-	},
-	{
-		"title": "Sad But True",
-		"band": "Metallica"
-	},
-	{
-		"title": "Seek & Destroy",
-		"band": "Metallica"
-	},
-	{
-		"title": "The Memory Remains",
-		"band": "Metallica"
-	},
-	{
-		"title": "The Shortest Straw",
-		"band": "Metallica"
-	},
-	{
-		"title": "The Thing That Should Not Be",
-		"band": "Metallica"
-	},
-	{
-		"title": "The Unforgiven",
-		"band": "Metallica"
-	},
-	{
-		"title": "Trapped Under Ice",
-		"band": "Metallica"
-	},
-	{
-		"title": "Welcome Home (Sanitarium)",
-		"band": "Metallica"
-	},
-	{
-		"title": "Wherever I May Roam",
-		"band": "Metallica"
-	},
-	{
-		"title": "Whiplash",
-		"band": "Metallica"
-	},
-	{
-		"title": "Paranoid (Live)",
-		"band": "Metallica & Ozzy Osbourne"
-	},
-	{
-		"title": "Beat It",
-		"band": "Michael Jackson"
-	},
-	{
-		"title": "Armed and Ready",
-		"band": "Michael Schenker Group"
-	},
-	{
-		"title": "Float On",
-		"band": "Modest Mouse"
-	},
-	{
-		"title": "Heads Explode",
-		"band": "Monster Magnet"
-	},
-	{
-		"title": "Ace of Spades",
-		"band": "Motörhead"
-	},
-	{
-		"title": "Overkill",
-		"band": "Motörhead"
-	},
-	{
-		"title": "Absolution",
-		"band": "Muse"
-	},
-	{
-		"title": "Assassin",
-		"band": "Muse"
-	},
-	{
-		"title": "Hysteria",
-		"band": "Muse"
-	},
-	{
-		"title": "Knights of Cydonia",
-		"band": "Muse"
-	},
-	{
-		"title": "New Born",
-		"band": "Muse"
-	},
-	{
-		"title": "Plug In Baby",
-		"band": "Muse"
-	},
-	{
-		"title": "Resistance",
-		"band": "Muse"
-	},
-	{
-		"title": "Starlight",
-		"band": "Muse"
-	},
-	{
-		"title": "Stockholm Syndrome",
-		"band": "Muse"
-	},
-	{
-		"title": "Supermassive Black Hole",
-		"band": "Muse"
-	},
-	{
-		"title": "Time Is Running Out",
-		"band": "Muse"
-	},
-	{
-		"title": "Uprising",
-		"band": "Muse"
-	},
-	{
-		"title": "Bulletproof Heart",
-		"band": "My Chemical Romance"
-	},
-	{
-		"title": "Helena",
-		"band": "My Chemical Romance"
-	},
-	{
-		"title": "I'm Not Okay (I Promise)",
-		"band": "My Chemical Romance"
-	},
-	{
-		"title": "Teenagers",
-		"band": "My Chemical Romance"
-	},
-	{
-		"title": "Welcome to the Black Parade",
-		"band": "My Chemical Romance"
-	},
-	{
-		"title": "One Big Holiday",
-		"band": "My Morning Jacket"
-	},
-	{
-		"title": "Looks That Kill",
-		"band": "Mötley Crüe"
-	},
-	{
-		"title": "Shout at the Devil",
-		"band": "Mötley Crüe"
-	},
-	{
-		"title": "Rock Star",
-		"band": "N.E.R.D."
-	},
-	{
-		"title": "Soul Doubt",
-		"band": "NOFX"
-	},
-	{
-		"title": "Nuvole E Lenzuola",
-		"band": "Negramaro"
-	},
-	{
-		"title": "Rockin' in the Free World",
-		"band": "Neil Young"
-	},
-	{
-		"title": "Turn Off the Light",
-		"band": "Nelly Furtado"
-	},
-	{
-		"title": "How You Remind Me",
-		"band": "Nickelback"
-	},
-	{
-		"title": "(You Can Still) Rock in America",
-		"band": "Night Ranger"
-	},
-	{
-		"title": "Closer",
-		"band": "Nine Inch Nails"
-	},
-	{
-		"title": "Head Like a Hole",
-		"band": "Nine Inch Nails"
-	},
-	{
-		"title": "The Hand That Feeds",
-		"band": "Nine Inch Nails"
-	},
-	{
-		"title": "Wish",
-		"band": "Nine Inch Nails"
-	},
-	{
-		"title": "About a Girl",
-		"band": "Nirvana"
-	},
-	{
-		"title": "About a Girl (Unplugged)",
-		"band": "Nirvana"
-	},
-	{
-		"title": "All Apologies",
-		"band": "Nirvana"
-	},
-	{
-		"title": "Come as You Are",
-		"band": "Nirvana"
-	},
-	{
-		"title": "Drain You",
-		"band": "Nirvana"
-	},
-	{
-		"title": "Heart-Shaped Box",
-		"band": "Nirvana"
-	},
-	{
-		"title": "In Bloom",
-		"band": "Nirvana"
-	},
-	{
-		"title": "Lithium",
-		"band": "Nirvana"
-	},
-	{
-		"title": "Lithium (Live)",
-		"band": "Nirvana"
-	},
-	{
-		"title": "Polly",
-		"band": "Nirvana"
-	},
-	{
-		"title": "Smells Like Teen Spirit",
-		"band": "Nirvana"
-	},
-	{
-		"title": "Don't Speak",
-		"band": "No Doubt"
-	},
-	{
-		"title": "Ex-Girlfriend",
-		"band": "No Doubt"
-	},
-	{
-		"title": "Just a Girl",
-		"band": "No Doubt"
-	},
-	{
-		"title": "Spiderwebs",
-		"band": "No Doubt"
-	},
-	{
-		"title": "A Million Ways",
-		"band": "OK Go"
-	},
-	{
-		"title": "Some Might Say",
-		"band": "Oasis"
-	},
-	{
-		"title": "Demon of the Fall",
-		"band": "Opeth"
-	},
-	{
-		"title": "Suffocated",
-		"band": "Orianthi"
-	},
-	{
-		"title": "Bark at the Moon",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "Bark at the Moon (Live)",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "Crazy Train",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "Crazy Train (Live)",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "Flying High Again",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "Gets Me Through",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "I Don't Know",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "I Don't Want to Change the World",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "Mama, I'm Coming Home",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "Mr. Crowley",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "No More Tears",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "No More Tears (Live)",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "Over the Mountain",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "Perry Mason",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "See You on the Other Side",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "Shot in the Dark",
-		"band": "Ozzy Osbourne"
-	},
-	{
-		"title": "5 Minutes Alone",
-		"band": "Pantera"
-	},
-	{
-		"title": "Becoming",
-		"band": "Pantera"
-	},
-	{
-		"title": "Cemetery Gates",
-		"band": "Pantera"
-	},
-	{
-		"title": "Cowboys from Hell",
-		"band": "Pantera"
-	},
-	{
-		"title": "Domination",
-		"band": "Pantera"
-	},
-	{
-		"title": "I'm Broken",
-		"band": "Pantera"
-	},
-	{
-		"title": "Mouth for War",
-		"band": "Pantera"
-	},
-	{
-		"title": "Revolution Is My Name",
-		"band": "Pantera"
-	},
-	{
-		"title": "This Love",
-		"band": "Pantera"
-	},
-	{
-		"title": "Walk (Live)",
-		"band": "Pantera"
-	},
-	{
-		"title": "Lifeline",
-		"band": "Papa Roach"
-	},
-	{
-		"title": "Back Again",
-		"band": "Parachute"
-	},
-	{
-		"title": "Misery Business",
-		"band": "Paramore"
-	},
-	{
-		"title": "Heartbreaker",
-		"band": "Pat Benatar"
-	},
-	{
-		"title": "Love is a Battlefield",
-		"band": "Pat Benatar"
-	},
-	{
-		"title": "Rock Show",
-		"band": "Paul McCartney & Wings"
-	},
-	{
-		"title": "Do You Feel Like We Do? (Live)",
-		"band": "Peter Frampton"
-	},
-	{
-		"title": "Lasso",
-		"band": "Phoenix"
-	},
-	{
-		"title": "Every Rose Has Its Thorn",
-		"band": "Poison"
-	},
-	{
-		"title": "Nothin' But a Good Time",
-		"band": "Poison"
-	},
-	{
-		"title": "Talk Dirty to Me",
-		"band": "Poison"
-	},
-	{
-		"title": "Unskinny Bop",
-		"band": "Poison"
-	},
-	{
-		"title": "Lay Down",
-		"band": "Priestess"
-	},
-	{
-		"title": "Bring the Noise 20XX",
-		"band": "Public Enemy Featuring Zakk Wylde"
-	},
-	{
-		"title": "Momma Sed",
-		"band": "Puscifer"
-	},
-	{
-		"title": "Another One Bites the Dust",
-		"band": "Queen"
-	},
-	{
-		"title": "Bohemian Rhapsody",
-		"band": "Queen"
-	},
-	{
-		"title": "Crazy Little Thing Called Love",
-		"band": "Queen"
-	},
-	{
-		"title": "Don't Stop Me Now",
-		"band": "Queen"
-	},
-	{
-		"title": "Fat Bottomed Girls",
-		"band": "Queen"
-	},
-	{
-		"title": "I Want It All",
-		"band": "Queen"
-	},
-	{
-		"title": "I Want to Break Free",
-		"band": "Queen"
-	},
-	{
-		"title": "Keep Yourself Alive",
-		"band": "Queen"
-	},
-	{
-		"title": "Killer Queen",
-		"band": "Queen"
-	},
-	{
-		"title": "Radio Ga Ga",
-		"band": "Queen"
-	},
-	{
-		"title": "Somebody to Love",
-		"band": "Queen"
-	},
-	{
-		"title": "Stone Cold Crazy",
-		"band": "Queen"
-	},
-	{
-		"title": "Tie Your Mother Down",
-		"band": "Queen"
-	},
-	{
-		"title": "We Are the Champions",
-		"band": "Queen"
-	},
-	{
-		"title": "We Will Rock You",
-		"band": "Queen"
-	},
-	{
-		"title": "Under Pressure",
-		"band": "Queen & David Bowie"
-	},
-	{
-		"title": "Make It Wit Chu",
-		"band": "Queens Of The Stone Age"
-	},
-	{
-		"title": "3's & 7's",
-		"band": "Queens of the Stone Age"
-	},
-	{
-		"title": "Jet City Woman",
-		"band": "Queensrÿche"
-	},
-	{
-		"title": "Losing My Religion",
-		"band": "R.E.M."
-	},
-	{
-		"title": "The One I Love",
-		"band": "R.E.M."
-	},
-	{
-		"title": "What's the Frequency, Kenneth?",
-		"band": "R.E.M."
-	},
-	{
-		"title": "Escuela de Calor",
-		"band": "Radio Futura"
-	},
-	{
-		"title": "Bombtrack",
-		"band": "Rage Against the Machine"
-	},
-	{
-		"title": "Bulls on Parade",
-		"band": "Rage Against the Machine"
-	},
-	{
-		"title": "Guerilla Radio",
-		"band": "Rage Against the Machine"
-	},
-	{
-		"title": "Killing in the Name",
-		"band": "Rage Against the Machine"
-	},
-	{
-		"title": "Renegades of Funk",
-		"band": "Rage Against the Machine"
-	},
-	{
-		"title": "Sleep Now in the Fire",
-		"band": "Rage Against the Machine"
-	},
-	{
-		"title": "Testify",
-		"band": "Rage Against the Machine"
-	},
-	{
-		"title": "Waidmanns Heil",
-		"band": "Rammstein"
-	},
-	{
-		"title": "By the Way",
-		"band": "Red Hot Chili Peppers"
-	},
-	{
-		"title": "Californication",
-		"band": "Red Hot Chili Peppers"
-	},
-	{
-		"title": "Dani California",
-		"band": "Red Hot Chili Peppers"
-	},
-	{
-		"title": "Give It Away",
-		"band": "Red Hot Chili Peppers"
-	},
-	{
-		"title": "Snow (Hey Oh)",
-		"band": "Red Hot Chili Peppers"
-	},
-	{
-		"title": "Tell Me Baby",
-		"band": "Red Hot Chili Peppers"
-	},
-	{
-		"title": "Under the Bridge",
-		"band": "Red Hot Chili Peppers"
-	},
-	{
-		"title": "Lunatic Fringe",
-		"band": "Red Rider"
-	},
-	{
-		"title": "Psychobilly Freakout",
-		"band": "Reverend Horton Heat"
-	},
-	{
-		"title": "Re-Education (Through Labor)",
-		"band": "Rise Against"
-	},
-	{
-		"title": "Savior",
-		"band": "Rise Against"
-	},
-	{
-		"title": "Dragula",
-		"band": "Rob Zombie"
-	},
-	{
-		"title": "Living Dead Girl",
-		"band": "Rob Zombie"
-	},
-	{
-		"title": "Superbeast",
-		"band": "Rob Zombie"
-	},
-	{
-		"title": "Sneak Out",
-		"band": "Rose Hill Drive"
-	},
-	{
-		"title": "Oh, Pretty Woman",
-		"band": "Roy Orbison"
-	},
-	{
-		"title": "2112 Pt. 1 – Overture",
-		"band": "Rush"
-	},
-	{
-		"title": "2112 Pt. 2 – The Temples of Syrinx",
-		"band": "Rush"
-	},
-	{
-		"title": "2112 Pt. 3 – Discovery",
-		"band": "Rush"
-	},
-	{
-		"title": "2112 Pt. 4 – Presentation",
-		"band": "Rush"
-	},
-	{
-		"title": "2112 Pt. 5 – Oracle: The Dream",
-		"band": "Rush"
-	},
-	{
-		"title": "2112 Pt. 6 – Soliloquy",
-		"band": "Rush"
-	},
-	{
-		"title": "2112 Pt. 7 – Grand Finale",
-		"band": "Rush"
-	},
-	{
-		"title": "Limelight",
-		"band": "Rush"
-	},
-	{
-		"title": "Red Barchetta",
-		"band": "Rush"
-	},
-	{
-		"title": "The Spirit of Radio (Live)",
-		"band": "Rush"
-	},
-	{
-		"title": "Tom Sawyer",
-		"band": "Rush"
-	},
-	{
-		"title": "YYZ",
-		"band": "Rush"
-	},
-	{
-		"title": "It's Only Another Parsec...",
-		"band": "Rx Bandits"
-	},
-	{
-		"title": "Mother of Mercy",
-		"band": "Samhain"
-	},
-	{
-		"title": "Black Magic Woman",
-		"band": "Santana"
-	},
-	{
-		"title": "No One to Depend On (Live)",
-		"band": "Santana"
-	},
-	{
-		"title": "L.E.S. Artistes",
-		"band": "Santigold"
-	},
-	{
-		"title": "They Say",
-		"band": "Scars on Broadway"
-	},
-	{
-		"title": "Nearly Lost You",
-		"band": "Screaming Trees"
-	},
-	{
-		"title": "Make-Up/Break-Up",
-		"band": "Secret Machines"
-	},
-	{
-		"title": "Pretty Vacant",
-		"band": "Sex Pistols"
-	},
-	{
-		"title": "Lazy Eye",
-		"band": "Silversun Pickups"
-	},
-	{
-		"title": "There's No Secrets This Year",
-		"band": "Silversun Pickups"
-	},
-	{
-		"title": "Nothing To Say",
-		"band": "Slash"
-	},
-	{
-		"title": "Watch This",
-		"band": "Slash"
-	},
-	{
-		"title": "We're All Gonna Die",
-		"band": "Slash"
-	},
-	{
-		"title": "Ghost",
-		"band": "Slash featuring Ian Astbury"
-	},
-	{
-		"title": "Chemical Warfare",
-		"band": "Slayer"
-	},
-	{
-		"title": "War Ensemble",
-		"band": "Slayer"
-	},
-	{
-		"title": "Psychosocial",
-		"band": "Slipknot"
-	},
-	{
-		"title": "Deadfall",
-		"band": "Snot"
-	},
-	{
-		"title": "Incinerate",
-		"band": "Sonic Youth"
-	},
-	{
-		"title": "Crank That (Soulja Boy)",
-		"band": "Soulja Boy Tell 'Em"
-	},
-	{
-		"title": "4th of July",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Beyond The Wheel",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Black Hole Sun",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Black Rain",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Blow Up the Outside World",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Burden in My Hand",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Drawing Flies",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Face Pollution",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Fell on Black Days",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Fell on Black Days (Live)",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Fresh Tendrils",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Get on the Snake",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Hands All Over",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Head Down",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Holy Water",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Jesus Christ Pose",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Kickstand",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Like Suicide",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Live to Rise",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Loud Love",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Mailman",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Mind Riot",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "My Wave",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "New Damage",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Outshined",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Pretty Noose",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Room a Thousand Years Wide",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Rusty Cage",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Searching with My Good Eye Closed",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Slaves & Bulldozers",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Spoonman",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "Superunknown",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "The Day I Tried to Live",
-		"band": "Soundgarden"
-	},
-	{
-		"title": "In The Meantime",
-		"band": "Spacehog"
-	},
-	{
-		"title": "Wannabe",
-		"band": "Spice Girls"
-	},
-	{
-		"title": "Plowed",
-		"band": "Sponge"
-	},
-	{
-		"title": "Do It Again",
-		"band": "Steely Dan"
-	},
-	{
-		"title": "The Joker",
-		"band": "Steve Miller Band"
-	},
-	{
-		"title": "Speeding",
-		"band": "Steve Vai"
-	},
-	{
-		"title": "Superstition",
-		"band": "Stevie Wonder"
-	},
-	{
-		"title": "Demolition Man (Live)",
-		"band": "Sting"
-	},
-	{
-		"title": "Big Empty",
-		"band": "Stone Temple Pilots"
-	},
-	{
-		"title": "Creep",
-		"band": "Stone Temple Pilots"
-	},
-	{
-		"title": "Interstate Love Song",
-		"band": "Stone Temple Pilots"
-	},
-	{
-		"title": "Plush",
-		"band": "Stone Temple Pilots"
-	},
-	{
-		"title": "Sex Type Thing",
-		"band": "Stone Temple Pilots"
-	},
-	{
-		"title": "Sour Girl",
-		"band": "Stone Temple Pilots"
-	},
-	{
-		"title": "Trippin' on a Hole in a Paper Heart",
-		"band": "Stone Temple Pilots"
-	},
-	{
-		"title": "Vasoline",
-		"band": "Stone Temple Pilots"
-	},
-	{
-		"title": "Wicked Garden",
-		"band": "Stone Temple Pilots"
-	},
-	{
-		"title": "Calling",
-		"band": "Strung Out"
-	},
-	{
-		"title": "Toy Boy",
-		"band": "Stuck in the Sound"
-	},
-	{
-		"title": "Mr. Roboto",
-		"band": "Styx"
-	},
-	{
-		"title": "Renegade",
-		"band": "Styx"
-	},
-	{
-		"title": "Santeria",
-		"band": "Sublime"
-	},
-	{
-		"title": "What I Got",
-		"band": "Sublime"
-	},
-	{
-		"title": "War Inside My Head",
-		"band": "Suicidal Tendencies"
-	},
-	{
-		"title": "Motivation",
-		"band": "Sum 41"
-	},
-	{
-		"title": "Seven",
-		"band": "Sunny Day Real Estate"
-	},
-	{
-		"title": "Eye of the Tiger",
-		"band": "Survivor"
-	},
-	{
-		"title": "Aerials",
-		"band": "System of a Down"
-	},
-	{
-		"title": "B.Y.O.B.",
-		"band": "System of a Down"
-	},
-	{
-		"title": "Chop Suey!",
-		"band": "System of a Down"
-	},
-	{
-		"title": "Hypnotize",
-		"band": "System of a Down"
-	},
-	{
-		"title": "Lonely Day",
-		"band": "System of a Down"
-	},
-	{
-		"title": "Question!",
-		"band": "System of a Down"
-	},
-	{
-		"title": "Spiders",
-		"band": "System of a Down"
-	},
-	{
-		"title": "Sugar",
-		"band": "System of a Down"
-	},
-	{
-		"title": "Toxicity",
-		"band": "System of a Down"
-	},
-	{
-		"title": "20th Century Boy",
-		"band": "T. Rex"
-	},
-	{
-		"title": "Wolf Like Me",
-		"band": "TV On The Radio"
-	},
-	{
-		"title": "Love Story",
-		"band": "Taylor Swift"
-	},
-	{
-		"title": "Picture to Burn",
-		"band": "Taylor Swift"
-	},
-	{
-		"title": "You Belong With Me",
-		"band": "Taylor Swift"
-	},
-	{
-		"title": "Stranglehold",
-		"band": "Ted Nugent"
-	},
-	{
-		"title": "Master Exploder",
-		"band": "Tenacious D"
-	},
-	{
-		"title": "The Metal",
-		"band": "Tenacious D"
-	},
-	{
-		"title": "Tribute",
-		"band": "Tenacious D"
-	},
-	{
-		"title": "Wonderboy",
-		"band": "Tenacious D"
-	},
-	{
-		"title": "Love Song",
-		"band": "Tesla"
-	},
-	{
-		"title": "Modern Day Cowboy",
-		"band": "Tesla"
-	},
-	{
-		"title": "Gasoline",
-		"band": "The Airborne Toxic Event"
-	},
-	{
-		"title": "Dirty Little Secret",
-		"band": "The All-American Rejects"
-	},
-	{
-		"title": "Gives You Hell",
-		"band": "The All-American Rejects"
-	},
-	{
-		"title": "It Ends Tonight",
-		"band": "The All-American Rejects"
-	},
-	{
-		"title": "Move Along",
-		"band": "The All-American Rejects"
-	},
-	{
-		"title": "Ramblin' Man",
-		"band": "The Allman Brothers Band"
-	},
-	{
-		"title": "Never Too Late",
-		"band": "The Answer"
-	},
-	{
-		"title": "Believe",
-		"band": "The Bravery"
-	},
-	{
-		"title": "Six Days a Week",
-		"band": "The Bronx"
-	},
-	{
-		"title": "Safe European Home",
-		"band": "The Clash"
-	},
-	{
-		"title": "Love Removal Machine",
-		"band": "The Cult"
-	},
-	{
-		"title": "Fascination Street",
-		"band": "The Cure"
-	},
-	{
-		"title": "Pictures of You",
-		"band": "The Cure"
-	},
-	{
-		"title": "We've Got A Situation Here",
-		"band": "The Damned Things"
-	},
-	{
-		"title": "Younk Funk",
-		"band": "The Derek Trucks Band"
-	},
-	{
-		"title": "Setting Fire to Sleeping Giants",
-		"band": "The Dillinger Escape Plan"
-	},
-	{
-		"title": "Love Me Two Times",
-		"band": "The Doors"
-	},
-	{
-		"title": "Send a Little Love Token",
-		"band": "The Duke Spirit"
-	},
-	{
-		"title": "Hotel California",
-		"band": "The Eagles"
-	},
-	{
-		"title": "Free Ride",
-		"band": "The Edgar Winter Group"
-	},
-	{
-		"title": "Aggro",
-		"band": "The Enemy"
-	},
-	{
-		"title": "Our Lips Are Sealed",
-		"band": "The Go-Go's"
-	},
-	{
-		"title": "American Woman",
-		"band": "The Guess Who"
-	},
-	{
-		"title": "Tick Tick Boom",
-		"band": "The Hives"
-	},
-	{
-		"title": "ABC",
-		"band": "The Jackson 5"
-	},
-	{
-		"title": "Purple Haze (Live)",
-		"band": "The Jimi Hendrix Experience"
-	},
-	{
-		"title": "All the Pretty Faces",
-		"band": "The Killers"
-	},
-	{
-		"title": "Naïve",
-		"band": "The Kooks"
-	},
-	{
-		"title": "Prisoner of Society",
-		"band": "The Living End"
-	},
-	{
-		"title": "L'Via L'Viaquez",
-		"band": "The Mars Volta"
-	},
-	{
-		"title": "The Impression That I Get",
-		"band": "The Mighty Mighty Bosstones"
-	},
-	{
-		"title": "Self Esteem",
-		"band": "The Offspring"
-	},
-	{
-		"title": "Every Breath You Take",
-		"band": "The Police"
-	},
-	{
-		"title": "Message in a Bottle",
-		"band": "The Police"
-	},
-	{
-		"title": "Roxanne",
-		"band": "The Police"
-	},
-	{
-		"title": "So Lonely",
-		"band": "The Police"
-	},
-	{
-		"title": "Synchronicity II",
-		"band": "The Police"
-	},
-	{
-		"title": "When I Grow Up",
-		"band": "The Pussycat Dolls"
-	},
-	{
-		"title": "Steady, As She Goes",
-		"band": "The Raconteurs"
-	},
-	{
-		"title": "Theme From Spider-Man",
-		"band": "The Ramones"
-	},
-	{
-		"title": "Hot Patootie",
-		"band": "The Rocky Horror Picture Show"
-	},
-	{
-		"title": "Sweet Transvestite",
-		"band": "The Rocky Horror Picture Show"
-	},
-	{
-		"title": "Time Warp",
-		"band": "The Rocky Horror Picture Show"
-	},
-	{
-		"title": "Angie",
-		"band": "The Rolling Stones"
-	},
-	{
-		"title": "Beast of Burden",
-		"band": "The Rolling Stones"
-	},
-	{
-		"title": "Brown Sugar",
-		"band": "The Rolling Stones"
-	},
-	{
-		"title": "Gimme Shelter",
-		"band": "The Rolling Stones"
-	},
-	{
-		"title": "Honky Tonk Women",
-		"band": "The Rolling Stones"
-	},
-	{
-		"title": "Jumpin' Jack Flash",
-		"band": "The Rolling Stones"
-	},
-	{
-		"title": "Paint It Black",
-		"band": "The Rolling Stones"
-	},
-	{
-		"title": "Satisfaction",
-		"band": "The Rolling Stones"
-	},
-	{
-		"title": "Start Me Up",
-		"band": "The Rolling Stones"
-	},
-	{
-		"title": "Stray Cat Blues",
-		"band": "The Rolling Stones"
-	},
-	{
-		"title": "Sympathy for the Devil",
-		"band": "The Rolling Stones"
-	},
-	{
-		"title": "Under My Thumb (Live)",
-		"band": "The Rolling Stones"
-	},
-	{
-		"title": "Wild Horses",
-		"band": "The Rolling Stones"
-	},
-	{
-		"title": "Cherry Bomb",
-		"band": "The Runaways"
-	},
-	{
-		"title": "Bullet with Butterfly Wings",
-		"band": "The Smashing Pumpkins"
-	},
-	{
-		"title": "Today",
-		"band": "The Smashing Pumpkins"
-	},
-	{
-		"title": "Love Spreads",
-		"band": "The Stone Roses"
-	},
-	{
-		"title": "Black River",
-		"band": "The Sword"
-	},
-	{
-		"title": "Hell Gazer",
-		"band": "The Sword"
-	},
-	{
-		"title": "Maiden, Mother & Crone",
-		"band": "The Sword"
-	},
-	{
-		"title": "Happy Together",
-		"band": "The Turtles"
-	},
-	{
-		"title": "Buried Myself Alive",
-		"band": "The Used"
-	},
-	{
-		"title": "Get Free",
-		"band": "The Vines"
-	},
-	{
-		"title": "Seven Nation Army",
-		"band": "The White Stripes"
-	},
-	{
-		"title": "Scumbag Blues",
-		"band": "Them Crooked Vultures"
-	},
-	{
-		"title": "Boys Are Back in Town",
-		"band": "Thin Lizzy"
-	},
-	{
-		"title": "Jailbreak",
-		"band": "Thin Lizzy"
-	},
-	{
-		"title": "Graduate",
-		"band": "Third Eye Blind"
-	},
-	{
-		"title": "Deadbolt",
-		"band": "Thrice"
-	},
-	{
-		"title": "Monsoon",
-		"band": "Tokio Hotel"
-	},
-	{
-		"title": "Runnin' Down a Dream",
-		"band": "Tom Petty"
-	},
-	{
-		"title": "American Girl",
-		"band": "Tom Petty & The Heartbreakers"
-	},
-	{
-		"title": "Listen to Her Heart",
-		"band": "Tom Petty and the Heartbreakers"
-	},
-	{
-		"title": "If You Could Only See",
-		"band": "Tonic"
-	},
-	{
-		"title": "Aenema",
-		"band": "Tool"
-	},
-	{
-		"title": "Forty Six & 2",
-		"band": "Tool"
-	},
-	{
-		"title": "Jambi",
-		"band": "Tool"
-	},
-	{
-		"title": "Lateralus",
-		"band": "Tool"
-	},
-	{
-		"title": "Parabola",
-		"band": "Tool"
-	},
-	{
-		"title": "Schism",
-		"band": "Tool"
-	},
-	{
-		"title": "Sober",
-		"band": "Tool"
-	},
-	{
-		"title": "Stinkfist",
-		"band": "Tool"
-	},
-	{
-		"title": "The Pot",
-		"band": "Tool"
-	},
-	{
-		"title": "Vicarious",
-		"band": "Tool"
-	},
-	{
-		"title": "Antisocial",
-		"band": "Trust"
-	},
-	{
-		"title": "I Wanna Rock",
-		"band": "Twisted Sister"
-	},
-	{
-		"title": "We're Not Gonna Take It",
-		"band": "Twisted Sister"
-	},
-	{
-		"title": "A-Punk",
-		"band": "Vampire Weekend"
-	},
-	{
-		"title": "Ain't Talkin' 'bout Love",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Atomic Punk",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Beautiful Girls",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Cathedral",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Dance the Night Away",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Eruption",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Everybody Wants Some!!",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Feel Your Love Tonight",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Hang 'Em High",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Hear About It Later",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Hot for Teacher",
-		"band": "Van Halen"
-	},
-	{
-		"title": "I'm the One",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Ice Cream Man",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Jamie's Cryin'",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Jump",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Little Guitars",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Mean Street",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Panama",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Runnin' with the Devil",
-		"band": "Van Halen"
-	},
-	{
-		"title": "So This Is Love?",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Somebody Get Me a Doctor",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Spanish Fly",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Unchained",
-		"band": "Van Halen"
-	},
-	{
-		"title": "You Really Got Me",
-		"band": "Van Halen"
-	},
-	{
-		"title": "Dirty Little Thing",
-		"band": "Velvet Revolver"
-	},
-	{
-		"title": "Fall to Pieces",
-		"band": "Velvet Revolver"
-	},
-	{
-		"title": "Slither",
-		"band": "Velvet Revolver"
-	},
-	{
-		"title": "Beverly Hills",
-		"band": "Weezer"
-	},
-	{
-		"title": "Buddy Holly",
-		"band": "Weezer"
-	},
-	{
-		"title": "Hash Pipe",
-		"band": "Weezer"
-	},
-	{
-		"title": "Island in the Sun",
-		"band": "Weezer"
-	},
-	{
-		"title": "Pork and Beans",
-		"band": "Weezer"
-	},
-	{
-		"title": "Say It Ain't So",
-		"band": "Weezer"
-	},
-	{
-		"title": "Undone – The Sweater Song",
-		"band": "Weezer"
-	},
-	{
-		"title": "Why Bother?",
-		"band": "Weezer"
-	},
-	{
-		"title": "Black Sunshine",
-		"band": "White Zombie"
-	},
-	{
-		"title": "More Human Than Human",
-		"band": "White Zombie"
-	},
-	{
-		"title": "Thunder Kiss '65",
-		"band": "White Zombie"
-	},
-	{
-		"title": "Play That Funky Music",
-		"band": "Wild Cherry"
-	},
-	{
-		"title": "On the Road Again (Live)",
-		"band": "Willie Nelson"
-	},
-	{
-		"title": "Band on the Run",
-		"band": "Wings"
-	},
-	{
-		"title": "Back Round",
-		"band": "Wolfmother"
-	},
-	{
-		"title": "Woman",
-		"band": "Wolfmother"
-	},
-	{
-		"title": "Ocean Avenue",
-		"band": "Yellowcard"
-	},
-	{
-		"title": "Gimme All Your Lovin'",
-		"band": "ZZ Top"
-	},
-	{
-		"title": "Got Me Under Pressure",
-		"band": "ZZ Top"
-	},
-	{
-		"title": "La Grange",
-		"band": "ZZ Top"
-	},
-	{
-		"title": "La Grange (Live)",
-		"band": "ZZ Top"
-	},
-	{
-		"title": "Legs",
-		"band": "ZZ Top"
-	},
-	{
-		"title": "Sharp Dressed Man (Live)",
-		"band": "ZZ Top"
-	},
-	{
-		"title": "Tush",
-		"band": "ZZ Top"
-	}
+  {
+    "title": "Kryptonite",
+    "band": "3 Doors Down"
+  },
+  {
+    "title": "When I'm Gone",
+    "band": "3 Doors Down"
+  },
+  {
+    "title": "Attack",
+    "band": "30 Seconds to Mars"
+  },
+  {
+    "title": "From Yesterday",
+    "band": "30 Seconds to Mars"
+  },
+  {
+    "title": "Kings and Queens",
+    "band": "30 Seconds to Mars"
+  },
+  {
+    "title": "The Kill",
+    "band": "30 Seconds to Mars"
+  },
+  {
+    "title": "Beautiful Disaster",
+    "band": "311"
+  },
+  {
+    "title": "2nd Sucks",
+    "band": "A Day To Remember"
+  },
+  {
+    "title": "All I Want",
+    "band": "A Day to Remember"
+  },
+  {
+    "title": "The Downfall of Us All",
+    "band": "A Day to Remember"
+  },
+  {
+    "title": "Judith",
+    "band": "A Perfect Circle"
+  },
+  {
+    "title": "The Outsider",
+    "band": "A Perfect Circle"
+  },
+  {
+    "title": "Back in the Saddle",
+    "band": "Aerosmith"
+  },
+  {
+    "title": "Cryin'",
+    "band": "Aerosmith"
+  },
+  {
+    "title": "Livin' on the Edge",
+    "band": "Aerosmith"
+  },
+  {
+    "title": "Love in an Elevator",
+    "band": "Aerosmith"
+  },
+  {
+    "title": "Rag Doll",
+    "band": "Aerosmith"
+  },
+  {
+    "title": "Beautiful Thieves",
+    "band": "AFI"
+  },
+  {
+    "title": "Dancing Through Sunday",
+    "band": "AFI"
+  },
+  {
+    "title": "Girl's Not Grey",
+    "band": "AFI"
+  },
+  {
+    "title": "Medicate",
+    "band": "AFI"
+  },
+  {
+    "title": "Miss Murder",
+    "band": "AFI"
+  },
+  {
+    "title": "The Missing Frame",
+    "band": "AFI"
+  },
+  {
+    "title": "Too Much, Too Young, Too Fast",
+    "band": "Airbourne"
+  },
+  {
+    "title": "Elected",
+    "band": "Alice Cooper"
+  },
+  {
+    "title": "I'm Eighteen",
+    "band": "Alice Cooper"
+  },
+  {
+    "title": "No More Mr. Nice Guy",
+    "band": "Alice Cooper"
+  },
+  {
+    "title": "Poison",
+    "band": "Alice Cooper"
+  },
+  {
+    "title": "School's Out",
+    "band": "Alice Cooper"
+  },
+  {
+    "title": "Welcome to My Nightmare",
+    "band": "Alice Cooper"
+  },
+  {
+    "title": "No Excuses",
+    "band": "Alice in Chains"
+  },
+  {
+    "title": "Them Bones",
+    "band": "Alice in Chains"
+  },
+  {
+    "title": "Damned If I Do Ya (Damned If I Don't)",
+    "band": "All Time Low"
+  },
+  {
+    "title": "Dear Maria, Count Me In",
+    "band": "All Time Low"
+  },
+  {
+    "title": "Weightless",
+    "band": "All Time Low"
+  },
+  {
+    "title": "Face Down",
+    "band": "Alpha Rev"
+  },
+  {
+    "title": "Fascination",
+    "band": "Alphabeat"
+  },
+  {
+    "title": "Come to Life",
+    "band": "Alter Bridge"
+  },
+  {
+    "title": "Ties That Bind",
+    "band": "Alter Bridge"
+  },
+  {
+    "title": "Like Whoa",
+    "band": "Aly & AJ"
+  },
+  {
+    "title": "Twilight of the Thunder God",
+    "band": "Amon Amarth"
+  },
+  {
+    "title": "From the Blue/Point of No Return/T.T.R.T.S",
+    "band": "An Endless Sporadic"
+  },
+  {
+    "title": "The Feel Good Drag",
+    "band": "Anberlin"
+  },
+  {
+    "title": "The Adventure",
+    "band": "Angels & Airwaves"
+  },
+  {
+    "title": "Good God",
+    "band": "Anouk"
+  },
+  {
+    "title": "Caught in a Mosh",
+    "band": "Anthrax"
+  },
+  {
+    "title": "Indians",
+    "band": "Anthrax"
+  },
+  {
+    "title": "Nemesis",
+    "band": "Arch Enemy"
+  },
+  {
+    "title": "Brianstorm",
+    "band": "Arctic Monkeys"
+  },
+  {
+    "title": "One Armed Scissor",
+    "band": "At the Drive-In"
+  },
+  {
+    "title": "Ravenous",
+    "band": "Atreyu"
+  },
+  {
+    "title": "You and Me",
+    "band": "Attack! Attack!"
+  },
+  {
+    "title": "Afterlife",
+    "band": "Avenged Sevenfold"
+  },
+  {
+    "title": "Almost Easy",
+    "band": "Avenged Sevenfold"
+  },
+  {
+    "title": "Bat Country",
+    "band": "Avenged Sevenfold"
+  },
+  {
+    "title": "Beast and the Harlot",
+    "band": "Avenged Sevenfold"
+  },
+  {
+    "title": "Scream",
+    "band": "Avenged Sevenfold"
+  },
+  {
+    "title": "Re-Ignition (Live)",
+    "band": "Bad Brains"
+  },
+  {
+    "title": "Sorrow",
+    "band": "Bad Religion"
+  },
+  {
+    "title": "Cigarettes, Wedding Bands",
+    "band": "Band Of Horses"
+  },
+  {
+    "title": "I Know What I Am",
+    "band": "Band of Skulls"
+  },
+  {
+    "title": "Gratitude",
+    "band": "Beastie Boys"
+  },
+  {
+    "title": "No Sleep Till Brooklyn",
+    "band": "Beastie Boys featuring Kerry King"
+  },
+  {
+    "title": "Hail to the Freaks",
+    "band": "Beatsteaks"
+  },
+  {
+    "title": "Gamma Ray",
+    "band": "Beck"
+  },
+  {
+    "title": "Steal My Kisses",
+    "band": "Ben Harper and the Innocent Criminals"
+  },
+  {
+    "title": "In a Big Country",
+    "band": "Big Country"
+  },
+  {
+    "title": "Dancing with Myself",
+    "band": "Billy Idol"
+  },
+  {
+    "title": "Rebel Yell",
+    "band": "Billy Idol"
+  },
+  {
+    "title": "White Wedding",
+    "band": "Billy Idol"
+  },
+  {
+    "title": "Everybody Wants You",
+    "band": "Billy Squier"
+  },
+  {
+    "title": "Lonely is the Night",
+    "band": "Billy Squier"
+  },
+  {
+    "title": "The Stroke",
+    "band": "Billy Squier"
+  },
+  {
+    "title": "When She Comes to Me",
+    "band": "Billy Squier"
+  },
+  {
+    "title": "Black Sunday",
+    "band": "Black Label Society"
+  },
+  {
+    "title": "Crazy Horse",
+    "band": "Black Label Society"
+  },
+  {
+    "title": "Parade of the Dead",
+    "band": "Black Label Society"
+  },
+  {
+    "title": "Stillborn",
+    "band": "Black Label Society"
+  },
+  {
+    "title": "Weapon of Choice",
+    "band": "Black Rebel Motorcycle Club"
+  },
+  {
+    "title": "After Forever",
+    "band": "Black Sabbath"
+  },
+  {
+    "title": "Children of the Grave",
+    "band": "Black Sabbath"
+  },
+  {
+    "title": "Into the Void",
+    "band": "Black Sabbath"
+  },
+  {
+    "title": "Sweet Leaf",
+    "band": "Black Sabbath"
+  },
+  {
+    "title": "Tones of Home",
+    "band": "Blind Melon"
+  },
+  {
+    "title": "Adam's Song",
+    "band": "Blink-182"
+  },
+  {
+    "title": "All the Small Things",
+    "band": "Blink-182"
+  },
+  {
+    "title": "Dammit",
+    "band": "Blink-182"
+  },
+  {
+    "title": "First Date",
+    "band": "Blink-182"
+  },
+  {
+    "title": "The Rock Show",
+    "band": "Blink-182"
+  },
+  {
+    "title": "One Way or Another",
+    "band": "Blondie"
+  },
+  {
+    "title": "Burnin' for You",
+    "band": "Blue Öyster Cult"
+  },
+  {
+    "title": "Godzilla",
+    "band": "Blue Öyster Cult"
+  },
+  {
+    "title": "Song 2",
+    "band": "Blur"
+  },
+  {
+    "title": "There's No Other Way",
+    "band": "Blur"
+  },
+  {
+    "title": "All Along the Watchtower",
+    "band": "Bob Dylan"
+  },
+  {
+    "title": "Turn the Page (Live)",
+    "band": "Bob Seger and the Silver Bullet Band"
+  },
+  {
+    "title": "Hollywood Nights",
+    "band": "Bob Seger & The Silver Bullet Band"
+  },
+  {
+    "title": "Livin' on a Prayer",
+    "band": "Bon Jovi"
+  },
+  {
+    "title": "You Give Love a Bad Name",
+    "band": "Bon Jovi"
+  },
+  {
+    "title": "More Than a Feeling",
+    "band": "Boston"
+  },
+  {
+    "title": "Sic Transit Gloria... Glory Fades",
+    "band": "Brand New"
+  },
+  {
+    "title": "Sowing Season (Yeah)",
+    "band": "Brand New"
+  },
+  {
+    "title": "Give Me a Sign",
+    "band": "Breaking Benjamin"
+  },
+  {
+    "title": "Sooner or Later",
+    "band": "Breaking Benjamin"
+  },
+  {
+    "title": "Until the End",
+    "band": "Breaking Benjamin"
+  },
+  {
+    "title": "Scream Aim Fire",
+    "band": "Bullet for My Valentine"
+  },
+  {
+    "title": "Lemon Frosting",
+    "band": "Bunny Knutson"
+  },
+  {
+    "title": "Comedown",
+    "band": "Bush"
+  },
+  {
+    "title": "Machinehead",
+    "band": "Bush"
+  },
+  {
+    "title": "What Do I Get?",
+    "band": "Buzzcocks"
+  },
+  {
+    "title": "Low Day",
+    "band": "Capra"
+  },
+  {
+    "title": "Kung Fu Fighting",
+    "band": "Carl Douglas"
+  },
+  {
+    "title": "I Want You to Want Me (Live)",
+    "band": "Cheap Trick"
+  },
+  {
+    "title": "Blooddrunk",
+    "band": "Children of Bodom"
+  },
+  {
+    "title": "Done with Everything, Die for Nothing",
+    "band": "Children Of Bodom"
+  },
+  {
+    "title": "If You Want Peace... Prepare for War",
+    "band": "Children of Bodom"
+  },
+  {
+    "title": "Living Dead Beat",
+    "band": "Children of Bodom"
+  },
+  {
+    "title": "Was It Worth It",
+    "band": "Children of Bodom"
+  },
+  {
+    "title": "Hang Me Up to Dry",
+    "band": "Cold War Kids"
+  },
+  {
+    "title": "In My Place",
+    "band": "Coldplay"
+  },
+  {
+    "title": "Shiver",
+    "band": "Coldplay"
+  },
+  {
+    "title": "Put Your Records On",
+    "band": "Corinne Bailey Rae"
+  },
+  {
+    "title": "Albatross",
+    "band": "Corrosion of Conformity"
+  },
+  {
+    "title": "Angels of the Silences",
+    "band": "Counting Crows"
+  },
+  {
+    "title": "Bad Moon Rising",
+    "band": "Creedence Clearwater Revival"
+  },
+  {
+    "title": "Fortunate Son",
+    "band": "Creedence Clearwater Revival"
+  },
+  {
+    "title": "Proud Mary",
+    "band": "Creedence Clearwater Revival"
+  },
+  {
+    "title": "Travelin' Band",
+    "band": "Creedence Clearwater Revival"
+  },
+  {
+    "title": "Up Around the Bend",
+    "band": "Creedence Clearwater Revival"
+  },
+  {
+    "title": "Do You Really Want to Hurt Me",
+    "band": "Culture Club"
+  },
+  {
+    "title": "Mother",
+    "band": "Danzig"
+  },
+  {
+    "title": "Blue Day",
+    "band": "Darker My Love"
+  },
+  {
+    "title": "Beyond the Life You Know",
+    "band": "Darkest Hour"
+  },
+  {
+    "title": "Demon(s)",
+    "band": "Darkest Hour"
+  },
+  {
+    "title": "Doomsayer",
+    "band": "Darkest Hour"
+  },
+  {
+    "title": "Savor the Kill",
+    "band": "Darkest Hour"
+  },
+  {
+    "title": "Hands Down",
+    "band": "Dashboard Confessional"
+  },
+  {
+    "title": "Fame",
+    "band": "David Bowie"
+  },
+  {
+    "title": "Let's Dance",
+    "band": "David Bowie"
+  },
+  {
+    "title": "You Really Like Me",
+    "band": "Davidicus"
+  },
+  {
+    "title": "Burn",
+    "band": "Deep Purple"
+  },
+  {
+    "title": "Smoke on the Water",
+    "band": "Deep Purple"
+  },
+  {
+    "title": "Space Truckin'",
+    "band": "Deep Purple"
+  },
+  {
+    "title": "Woman from Tokyo ('99 Remix)",
+    "band": "Deep Purple"
+  },
+  {
+    "title": "Pour Some Sugar on Me (Live)",
+    "band": "Def Leppard"
+  },
+  {
+    "title": "Here We Go Again",
+    "band": "Demi Lovato"
+  },
+  {
+    "title": "Bloodlines",
+    "band": "Dethklok"
+  },
+  {
+    "title": "Laser Cannon Deth Sentence",
+    "band": "Dethklok"
+  },
+  {
+    "title": "Whip It",
+    "band": "Devo"
+  },
+  {
+    "title": "Am I Evil?",
+    "band": "Diamond Head"
+  },
+  {
+    "title": "Feel The Pain",
+    "band": "Dinosaur Jr."
+  },
+  {
+    "title": "Money for Nothing",
+    "band": "Dire Straits"
+  },
+  {
+    "title": "Sultans of Swing",
+    "band": "Dire Straits"
+  },
+  {
+    "title": "Down With The Sickness",
+    "band": "Disturbed"
+  },
+  {
+    "title": "Indestructible",
+    "band": "Disturbed"
+  },
+  {
+    "title": "Stricken",
+    "band": "Disturbed"
+  },
+  {
+    "title": "The Infection",
+    "band": "Disturbed"
+  },
+  {
+    "title": "Love Holds It Down",
+    "band": "Dom Liberati"
+  },
+  {
+    "title": "American Pie",
+    "band": "Don Mclean"
+  },
+  {
+    "title": "Fury Of The Storm",
+    "band": "Dragonforce"
+  },
+  {
+    "title": "Through the Fire and Flames",
+    "band": "Dragonforce"
+  },
+  {
+    "title": "Pull Me Under",
+    "band": "Dream Theater"
+  },
+  {
+    "title": "Bodies",
+    "band": "Drowning Pool"
+  },
+  {
+    "title": "Warwick Avenue",
+    "band": "Duffy"
+  },
+  {
+    "title": "Hungry Like the Wolf",
+    "band": "Duran Duran"
+  },
+  {
+    "title": "Rio",
+    "band": "Duran Duran"
+  },
+  {
+    "title": "Wannabe in L.A.",
+    "band": "Eagles Of Death Metal"
+  },
+  {
+    "title": "Munich",
+    "band": "Editors"
+  },
+  {
+    "title": "L.A.",
+    "band": "Elliott Smith"
+  },
+  {
+    "title": "Saturday Night's Alright (For Fighting)",
+    "band": "Elton John"
+  },
+  {
+    "title": "Bring Me to Life",
+    "band": "Evanescence"
+  },
+  {
+    "title": "Santa Monica",
+    "band": "Everclear"
+  },
+  {
+    "title": "Play With Me",
+    "band": "Extreme"
+  },
+  {
+    "title": "Disconnected",
+    "band": "Face to Face"
+  },
+  {
+    "title": "Epic",
+    "band": "Faith No More"
+  },
+  {
+    "title": "Dance, Dance",
+    "band": "Fall Out Boy"
+  },
+  {
+    "title": "Sugar, We're Goin Down",
+    "band": "Fall Out Boy"
+  },
+  {
+    "title": "The Take Over, the Breaks Over",
+    "band": "Fall Out Boy"
+  },
+  {
+    "title": "This Ain't a Scene, It's an Arms Race",
+    "band": "Fall Out Boy"
+  },
+  {
+    "title": "Thnks fr th Mmrs",
+    "band": "Fall Out Boy"
+  },
+  {
+    "title": "Take a Picture",
+    "band": "Filter"
+  },
+  {
+    "title": "Paralyzer",
+    "band": "Finger Eleven"
+  },
+  {
+    "title": "World on Fire",
+    "band": "Firewind"
+  },
+  {
+    "title": "Hard to See",
+    "band": "Five Finger Punch"
+  },
+  {
+    "title": "Go Your Own Way",
+    "band": "Fleetwood Mac"
+  },
+  {
+    "title": "(No More) Paddy's Lament",
+    "band": "Flogging Molly"
+  },
+  {
+    "title": "Requiem for a Dying Song",
+    "band": "Flogging Molly"
+  },
+  {
+    "title": "The Seven Deadly Sins",
+    "band": "Flogging Molly"
+  },
+  {
+    "title": "Again",
+    "band": "Flyleaf"
+  },
+  {
+    "title": "Best of You",
+    "band": "Foo Fighters"
+  },
+  {
+    "title": "Everlong",
+    "band": "Foo Fighters"
+  },
+  {
+    "title": "Monkey Wrench",
+    "band": "Foo Fighters"
+  },
+  {
+    "title": "No Way Back",
+    "band": "Foo Fighters"
+  },
+  {
+    "title": "Stacked Actors",
+    "band": "Foo Fighters"
+  },
+  {
+    "title": "Double Vision",
+    "band": "Foreigner"
+  },
+  {
+    "title": "Feels Like the First Time",
+    "band": "Foreigner"
+  },
+  {
+    "title": "Juke Box Hero",
+    "band": "Foreigner"
+  },
+  {
+    "title": "Stacy's Mom",
+    "band": "Fountains of Wayne"
+  },
+  {
+    "title": "Take Me Out",
+    "band": "Franz Ferdinand"
+  },
+  {
+    "title": "Only Happy When It Rains",
+    "band": "Garbage"
+  },
+  {
+    "title": "Move It On Over (Live)",
+    "band": "George Thorogood and the Destroyers"
+  },
+  {
+    "title": "Barren Mountain",
+    "band": "GHDev Thomaso"
+  },
+  {
+    "title": "Brandenburg",
+    "band": "GHDev Thomaso"
+  },
+  {
+    "title": "Chopin Revolution",
+    "band": "GHDev Thomaso"
+  },
+  {
+    "title": "I Stand Alone",
+    "band": "Godsmack"
+  },
+  {
+    "title": "Name",
+    "band": "Goo Goo Dolls"
+  },
+  {
+    "title": "Feel Good Inc.",
+    "band": "Gorillaz"
+  },
+  {
+    "title": "Streamline Woman",
+    "band": "Gov't Mule"
+  },
+  {
+    "title": "We're an American Band",
+    "band": "Grand Funk Railroad"
+  },
+  {
+    "title": "Gor-Gor",
+    "band": "GWAR"
+  },
+  {
+    "title": "Rescue Me",
+    "band": "Hawthorne Heights"
+  },
+  {
+    "title": "Barracuda",
+    "band": "Heart"
+  },
+  {
+    "title": "Unsung",
+    "band": "Helmet"
+  },
+  {
+    "title": "So Yesterday",
+    "band": "Hilary Duff"
+  },
+  {
+    "title": "Wings of a Butterfly",
+    "band": "HIM"
+  },
+  {
+    "title": "Lips of an Angel",
+    "band": "Hinder"
+  },
+  {
+    "title": "You're Gonna Say Yeah!",
+    "band": "Hush Puppies"
+  },
+  {
+    "title": "Lust for Life (Live)",
+    "band": "Iggy Pop"
+  },
+  {
+    "title": "Stellar",
+    "band": "Incubus"
+  },
+  {
+    "title": "Obstacle 1",
+    "band": "Interpol"
+  },
+  {
+    "title": "Slow Hands",
+    "band": "Interpol"
+  },
+  {
+    "title": "2 Minutes to Midnight",
+    "band": "Iron Maiden"
+  },
+  {
+    "title": "The Trooper",
+    "band": "Iron Maiden"
+  },
+  {
+    "title": "Freeze Frame",
+    "band": "J. Geils Band"
+  },
+  {
+    "title": "Been Caught Stealing",
+    "band": "Jane's Addiction"
+  },
+  {
+    "title": "Mountain Song",
+    "band": "Jane's Addiction"
+  },
+  {
+    "title": "Stop!",
+    "band": "Jane's Addiction"
+  },
+  {
+    "title": "Black Cat",
+    "band": "Janet Jackson"
+  },
+  {
+    "title": "Scatterbrain (Live)",
+    "band": "Jeff Beck"
+  },
+  {
+    "title": "Beautiful Soul",
+    "band": "Jesse Mccartney"
+  },
+  {
+    "title": "She's a Genius",
+    "band": "Jet"
+  },
+  {
+    "title": "Aqualung",
+    "band": "Jethro Tull"
+  },
+  {
+    "title": "The Wind Cries Mary",
+    "band": "Jimi Hendrix"
+  },
+  {
+    "title": "Bleed American",
+    "band": "Jimmy Eat World"
+  },
+  {
+    "title": "Pain",
+    "band": "Jimmy Eat World"
+  },
+  {
+    "title": "The Middle",
+    "band": "Jimmy Eat World"
+  },
+  {
+    "title": "Bad Reputation",
+    "band": "Joan Jett"
+  },
+  {
+    "title": "I Love Rock 'n Roll",
+    "band": "Joan Jett and the Blackhearts"
+  },
+  {
+    "title": "Lonesome Road Blues",
+    "band": "Joe Bonamassa"
+  },
+  {
+    "title": "Satch Boogie",
+    "band": "Joe Satriani"
+  },
+  {
+    "title": "Black Widow of La Porte",
+    "band": "John 5"
+  },
+  {
+    "title": "Hurts So Good",
+    "band": "John Mellencamp"
+  },
+  {
+    "title": "Ring of Fire",
+    "band": "Johnny Cash"
+  },
+  {
+    "title": "You Had Me",
+    "band": "Joss Stone"
+  },
+  {
+    "title": "Electric Eye",
+    "band": "Judas Priest"
+  },
+  {
+    "title": "Hell Bent for Leather",
+    "band": "Judas Priest"
+  },
+  {
+    "title": "Painkiller",
+    "band": "Judas Priest"
+  },
+  {
+    "title": "Never Miss a Beat",
+    "band": "Kaiser Chiefs"
+  },
+  {
+    "title": "Carry On Wayward Son",
+    "band": "Kansas"
+  },
+  {
+    "title": "Walking on Sunshine",
+    "band": "Katrina and the Waves"
+  },
+  {
+    "title": "Vinternoll2",
+    "band": "Kent"
+  },
+  {
+    "title": "End of Heartache",
+    "band": "Killswitch Engage"
+  },
+  {
+    "title": "21st Century Schizoid Man",
+    "band": "King Crimson"
+  },
+  {
+    "title": "Sex on Fire",
+    "band": "Kings Of Leon"
+  },
+  {
+    "title": "Calling Dr. Love",
+    "band": "Kiss"
+  },
+  {
+    "title": "Detroit Rock City",
+    "band": "Kiss"
+  },
+  {
+    "title": "I Was Made for Lovin' You",
+    "band": "Kiss"
+  },
+  {
+    "title": "Lick It Up",
+    "band": "Kiss"
+  },
+  {
+    "title": "Love Gun",
+    "band": "Kiss"
+  },
+  {
+    "title": "Modern Day Delilah",
+    "band": "Kiss"
+  },
+  {
+    "title": "Rock and Roll All Nite",
+    "band": "Kiss"
+  },
+  {
+    "title": "Shout It Out Loud",
+    "band": "Kiss"
+  },
+  {
+    "title": "Freak on a Leash",
+    "band": "Korn"
+  },
+  {
+    "title": "Black Horse and the Cherry Tree",
+    "band": "KT Tunstall"
+  },
+  {
+    "title": "Demon Cleaner",
+    "band": "Kyuss"
+  },
+  {
+    "title": "Our Truth",
+    "band": "Lacuna Coil"
+  },
+  {
+    "title": "Just Dance",
+    "band": "Lady Gaga (feat. Colby O'Donis)"
+  },
+  {
+    "title": "Laid to Rest",
+    "band": "Lamb of God"
+  },
+  {
+    "title": "Are You Gonna Go My Way",
+    "band": "Lenny Kravitz"
+  },
+  {
+    "title": "Fly Away",
+    "band": "Lenny Kravitz"
+  },
+  {
+    "title": "Lady",
+    "band": "Lenny Kravitz"
+  },
+  {
+    "title": "Let Love Rule",
+    "band": "Lenny Kravitz"
+  },
+  {
+    "title": "Rock and Roll Is Dead",
+    "band": "Lenny Kravitz"
+  },
+  {
+    "title": "Take What You Take",
+    "band": "Lily Allen"
+  },
+  {
+    "title": "Nookie",
+    "band": "Limp Bizkit"
+  },
+  {
+    "title": "Blackout",
+    "band": "Linkin Park"
+  },
+  {
+    "title": "Bleed It Out",
+    "band": "Linkin Park"
+  },
+  {
+    "title": "Burning in the Skies",
+    "band": "Linkin Park"
+  },
+  {
+    "title": "The Catalyst",
+    "band": "Linkin Park"
+  },
+  {
+    "title": "The Messenger",
+    "band": "Linkin Park"
+  },
+  {
+    "title": "Waiting for the End",
+    "band": "Linkin Park"
+  },
+  {
+    "title": "What I've Done",
+    "band": "Linkin Park"
+  },
+  {
+    "title": "Wretches and Kings",
+    "band": "Linkin Park"
+  },
+  {
+    "title": "Cult of Personality",
+    "band": "Living Colour"
+  },
+  {
+    "title": "La Bamba",
+    "band": "Los Lobos"
+  },
+  {
+    "title": "Rooftops (A Liberation Broadcast)",
+    "band": "Lostprophets"
+  },
+  {
+    "title": "Mirror People",
+    "band": "Love And Rockets"
+  },
+  {
+    "title": "Call Me the Breeze (Live)",
+    "band": "Lynyrd Skynyrd"
+  },
+  {
+    "title": "Free Bird",
+    "band": "Lynyrd Skynyrd"
+  },
+  {
+    "title": "Free Bird (Wii Bird Edition)",
+    "band": "Lynyrd Skynyrd"
+  },
+  {
+    "title": "Gimme Three Steps",
+    "band": "Lynyrd Skynyrd"
+  },
+  {
+    "title": "Simple Man",
+    "band": "Lynyrd Skynyrd"
+  },
+  {
+    "title": "Sweet Home Alabama (Live)",
+    "band": "Lynyrd Skynyrd"
+  },
+  {
+    "title": "Tuesday's Gone",
+    "band": "Lynyrd Skynyrd"
+  },
+  {
+    "title": "Beautiful Mourning",
+    "band": "Machine Head"
+  },
+  {
+    "title": "Across 5 Oceans",
+    "band": "Madina Lake"
+  },
+  {
+    "title": "Hey Superstar",
+    "band": "Madina Lake"
+  },
+  {
+    "title": "Sex and Candy",
+    "band": "Marcy Playground"
+  },
+  {
+    "title": "Coma White",
+    "band": "Marilyn Manson"
+  },
+  {
+    "title": "Get Your Gunn",
+    "band": "Marilyn Manson"
+  },
+  {
+    "title": "The Beautiful People",
+    "band": "Marilyn Manson"
+  },
+  {
+    "title": "The Dope Show",
+    "band": "Marilyn Manson"
+  },
+  {
+    "title": "Tourniquet",
+    "band": "Marilyn Manson"
+  },
+  {
+    "title": "Harder to Breathe",
+    "band": "Maroon 5"
+  },
+  {
+    "title": "She Will Be Loved",
+    "band": "Maroon 5"
+  },
+  {
+    "title": "This Love",
+    "band": "Maroon 5"
+  },
+  {
+    "title": "I Heard It Through the Grapevine",
+    "band": "Marvin Gaye"
+  },
+  {
+    "title": "Blood and Thunder",
+    "band": "Mastodon"
+  },
+  {
+    "title": "Real World",
+    "band": "Matchbox 20"
+  },
+  {
+    "title": "Kick Out the Jams",
+    "band": "MC5's Wayne Kramer"
+  },
+  {
+    "title": "Hangar 18",
+    "band": "Megadeth"
+  },
+  {
+    "title": "Holy Wars... The Punishment Due",
+    "band": "Megadeth"
+  },
+  {
+    "title": "Peace Sells",
+    "band": "Megadeth"
+  },
+  {
+    "title": "Sudden Death",
+    "band": "Megadeth"
+  },
+  {
+    "title": "Sweating Bullets",
+    "band": "Megadeth"
+  },
+  {
+    "title": "Symphony of Destruction",
+    "band": "Megadeth"
+  },
+  {
+    "title": "This Day We Fight!",
+    "band": "Megadeth"
+  },
+  {
+    "title": "Evil",
+    "band": "Mercyful Fate"
+  },
+  {
+    "title": "All Nightmare Long",
+    "band": "Metallica"
+  },
+  {
+    "title": "Battery",
+    "band": "Metallica"
+  },
+  {
+    "title": "Creeping Death",
+    "band": "Metallica"
+  },
+  {
+    "title": "Disposable Heroes",
+    "band": "Metallica"
+  },
+  {
+    "title": "Dyers Eve",
+    "band": "Metallica"
+  },
+  {
+    "title": "Enter Sandman",
+    "band": "Metallica"
+  },
+  {
+    "title": "Fade to Black",
+    "band": "Metallica"
+  },
+  {
+    "title": "Fight Fire with Fire",
+    "band": "Metallica"
+  },
+  {
+    "title": "For Whom the Bell Tolls",
+    "band": "Metallica"
+  },
+  {
+    "title": "Frantic",
+    "band": "Metallica"
+  },
+  {
+    "title": "Fuel",
+    "band": "Metallica"
+  },
+  {
+    "title": "Hit the Lights",
+    "band": "Metallica"
+  },
+  {
+    "title": "King Nothing",
+    "band": "Metallica"
+  },
+  {
+    "title": "Master of Puppets",
+    "band": "Metallica"
+  },
+  {
+    "title": "Mercyful Fate",
+    "band": "Metallica"
+  },
+  {
+    "title": "No Leaf Clover",
+    "band": "Metallica"
+  },
+  {
+    "title": "Nothing Else Matters",
+    "band": "Metallica"
+  },
+  {
+    "title": "One",
+    "band": "Metallica"
+  },
+  {
+    "title": "Orion",
+    "band": "Metallica"
+  },
+  {
+    "title": "Sad But True",
+    "band": "Metallica"
+  },
+  {
+    "title": "Seek & Destroy",
+    "band": "Metallica"
+  },
+  {
+    "title": "The Memory Remains",
+    "band": "Metallica"
+  },
+  {
+    "title": "The Shortest Straw",
+    "band": "Metallica"
+  },
+  {
+    "title": "The Thing That Should Not Be",
+    "band": "Metallica"
+  },
+  {
+    "title": "The Unforgiven",
+    "band": "Metallica"
+  },
+  {
+    "title": "Trapped Under Ice",
+    "band": "Metallica"
+  },
+  {
+    "title": "Welcome Home (Sanitarium)",
+    "band": "Metallica"
+  },
+  {
+    "title": "Wherever I May Roam",
+    "band": "Metallica"
+  },
+  {
+    "title": "Whiplash",
+    "band": "Metallica"
+  },
+  {
+    "title": "Paranoid (Live)",
+    "band": "Metallica & Ozzy Osbourne"
+  },
+  {
+    "title": "Beat It",
+    "band": "Michael Jackson"
+  },
+  {
+    "title": "Armed and Ready",
+    "band": "Michael Schenker Group"
+  },
+  {
+    "title": "Lifelong Dayshift",
+    "band": "Middle Class Rut"
+  },
+  {
+    "title": "New Low",
+    "band": "Middle Class Rut"
+  },
+  {
+    "title": "Sad to Know",
+    "band": "Middle Class Rut"
+  },
+  {
+    "title": "7 Things",
+    "band": "Miley Cyrus"
+  },
+  {
+    "title": "Astro Zombies",
+    "band": "Misfits"
+  },
+  {
+    "title": "Float On",
+    "band": "Modest Mouse"
+  },
+  {
+    "title": "Ace of Spades",
+    "band": "Motörhead"
+  },
+  {
+    "title": "Overkill",
+    "band": "Motörhead"
+  },
+  {
+    "title": "Assassin",
+    "band": "Muse"
+  },
+  {
+    "title": "Plug In Baby",
+    "band": "Muse"
+  },
+  {
+    "title": "Resistance",
+    "band": "Muse"
+  },
+  {
+    "title": "Supermassive Black Hole",
+    "band": "Muse"
+  },
+  {
+    "title": "Uprising",
+    "band": "Muse"
+  },
+  {
+    "title": "Bulletproof Heart",
+    "band": "My Chemical Romance"
+  },
+  {
+    "title": "Helena",
+    "band": "My Chemical Romance"
+  },
+  {
+    "title": "I'm Not Okay (I Promise)",
+    "band": "My Chemical Romance"
+  },
+  {
+    "title": "Na Na Na",
+    "band": "My Chemical Romance"
+  },
+  {
+    "title": "Teenagers",
+    "band": "My Chemical Romance"
+  },
+  {
+    "title": "Welcome to the Black Parade",
+    "band": "My Chemical Romance"
+  },
+  {
+    "title": "One Big Holiday",
+    "band": "My Morning Jacket"
+  },
+  {
+    "title": "Girls, Girls",
+    "band": "Mötley Crüe"
+  },
+  {
+    "title": "Looks That Kill",
+    "band": "Mötley Crüe"
+  },
+  {
+    "title": "Shout at the Devil",
+    "band": "Mötley Crüe"
+  },
+  {
+    "title": "Hi-Speed Soul",
+    "band": "Nada Surf"
+  },
+  {
+    "title": "Rock NRola",
+    "band": "Nancy Fullforce"
+  },
+  {
+    "title": "Nuvole E Lenzuola",
+    "band": "Negramaro"
+  },
+  {
+    "title": "Rockin' in the Free World",
+    "band": "Neil Young"
+  },
+  {
+    "title": "Turn Off the Light",
+    "band": "Nelly Furtado"
+  },
+  {
+    "title": "Rock Star",
+    "band": "N.E.R.D."
+  },
+  {
+    "title": "Deluge of Fire",
+    "band": "Neversoft"
+  },
+  {
+    "title": "Echo",
+    "band": "Neversoft"
+  },
+  {
+    "title": "Feed Forward",
+    "band": "Neversoft"
+  },
+  {
+    "title": "Hairspray Sunset",
+    "band": "Neversoft"
+  },
+  {
+    "title": "Mohawk Miracle",
+    "band": "Neversoft"
+  },
+  {
+    "title": "Moonlit",
+    "band": "Neversoft"
+  },
+  {
+    "title": "Paint the Fires",
+    "band": "Neversoft"
+  },
+  {
+    "title": "Points of Oak",
+    "band": "Neversoft"
+  },
+  {
+    "title": "Quatrain 11",
+    "band": "Neversoft"
+  },
+  {
+    "title": "Raving Mad",
+    "band": "Neversoft"
+  },
+  {
+    "title": "Sting of the B",
+    "band": "Neversoft"
+  },
+  {
+    "title": "Tachophobia",
+    "band": "Neversoft"
+  },
+  {
+    "title": "Twisted Bach Medley",
+    "band": "Neversoft"
+  },
+  {
+    "title": "How You Remind Me",
+    "band": "Nickelback"
+  },
+  {
+    "title": "Sister Christian",
+    "band": "Night Ranger"
+  },
+  {
+    "title": "(You Can Still) Rock in America",
+    "band": "Night Ranger"
+  },
+  {
+    "title": "Closer",
+    "band": "Nine Inch Nails"
+  },
+  {
+    "title": "Head Like a Hole",
+    "band": "Nine Inch Nails"
+  },
+  {
+    "title": "The Hand That Feeds",
+    "band": "Nine Inch Nails"
+  },
+  {
+    "title": "Wish",
+    "band": "Nine Inch Nails"
+  },
+  {
+    "title": "About a Girl (Unplugged)",
+    "band": "Nirvana"
+  },
+  {
+    "title": "Heart-Shaped Box",
+    "band": "Nirvana"
+  },
+  {
+    "title": "Lithium (Live)",
+    "band": "Nirvana"
+  },
+  {
+    "title": "Smells Like Teen Spirit",
+    "band": "Nirvana"
+  },
+  {
+    "title": "Don't Speak",
+    "band": "No Doubt"
+  },
+  {
+    "title": "Ex-Girlfriend",
+    "band": "No Doubt"
+  },
+  {
+    "title": "Just a Girl",
+    "band": "No Doubt"
+  },
+  {
+    "title": "New",
+    "band": "No Doubt"
+  },
+  {
+    "title": "Spiderwebs",
+    "band": "No Doubt"
+  },
+  {
+    "title": "Soul Doubt",
+    "band": "NOFX"
+  },
+  {
+    "title": "Some Might Say",
+    "band": "Oasis"
+  },
+  {
+    "title": "A Million Ways",
+    "band": "OK Go"
+  },
+  {
+    "title": "Do What You Want",
+    "band": "OK Go"
+  },
+  {
+    "title": "Get Over It",
+    "band": "OK Go"
+  },
+  {
+    "title": "Here It Goes Again",
+    "band": "OK Go"
+  },
+  {
+    "title": "All the Right Moves",
+    "band": "One Republic"
+  },
+  {
+    "title": "Everybody Loves Me",
+    "band": "One Republic"
+  },
+  {
+    "title": "Mercy",
+    "band": "One Republic"
+  },
+  {
+    "title": "Blue Monday",
+    "band": "Orgy"
+  },
+  {
+    "title": "Suffocated",
+    "band": "Orianthi"
+  },
+  {
+    "title": "Fireflies",
+    "band": "Owl City"
+  },
+  {
+    "title": "Bark at the Moon",
+    "band": "Ozzy Osbourne"
+  },
+  {
+    "title": "Crazy Train",
+    "band": "Ozzy Osbourne"
+  },
+  {
+    "title": "Mr. Crowley",
+    "band": "Ozzy Osbourne"
+  },
+  {
+    "title": "Cowboys from Hell",
+    "band": "Pantera"
+  },
+  {
+    "title": "I'm Broken",
+    "band": "Pantera"
+  },
+  {
+    "title": "Last Resort",
+    "band": "Papa Roach"
+  },
+  {
+    "title": "Lifeline",
+    "band": "Papa Roach"
+  },
+  {
+    "title": "Back Again",
+    "band": "Parachute"
+  },
+  {
+    "title": "Ignorance",
+    "band": "Paramore"
+  },
+  {
+    "title": "Misery Business",
+    "band": "Paramore"
+  },
+  {
+    "title": "That's What You Get",
+    "band": "Paramore"
+  },
+  {
+    "title": "Heartbreaker",
+    "band": "Pat Benatar"
+  },
+  {
+    "title": "Hit Me with Your Best Shot",
+    "band": "Pat Benatar"
+  },
+  {
+    "title": "Love is a Battlefield",
+    "band": "Pat Benatar"
+  },
+  {
+    "title": "Cut Your Hair",
+    "band": "Pavement"
+  },
+  {
+    "title": "Do You Feel Like We Do? (Live)",
+    "band": "Peter Frampton"
+  },
+  {
+    "title": "Show Me the Way (Live)",
+    "band": "Peter Frampton"
+  },
+  {
+    "title": "1901",
+    "band": "Phoenix"
+  },
+  {
+    "title": "Everything is Everything",
+    "band": "Phoenix"
+  },
+  {
+    "title": "Lasso",
+    "band": "Phoenix"
+  },
+  {
+    "title": "Lisztomania",
+    "band": "Phoenix"
+  },
+  {
+    "title": "Boom",
+    "band": "P.O.D."
+  },
+  {
+    "title": "Southtown",
+    "band": "P.O.D."
+  },
+  {
+    "title": "Youth of the Nation",
+    "band": "P.O.D."
+  },
+  {
+    "title": "Every Rose Has Its Thorn",
+    "band": "Poison"
+  },
+  {
+    "title": "Nothin' But a Good Time",
+    "band": "Poison"
+  },
+  {
+    "title": "Talk Dirty to Me",
+    "band": "Poison"
+  },
+  {
+    "title": "Lay Down",
+    "band": "Priestess"
+  },
+  {
+    "title": "Bring the Noise 20XX",
+    "band": "Public Enemy Featuring Zakk Wylde"
+  },
+  {
+    "title": "Psycho",
+    "band": "Puddle of Mudd"
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "band": "Queen"
+  },
+  {
+    "title": "Crazy Little Thing Called Love",
+    "band": "Queen"
+  },
+  {
+    "title": "I Want It All",
+    "band": "Queen"
+  },
+  {
+    "title": "Killer Queen",
+    "band": "Queen"
+  },
+  {
+    "title": "Somebody to Love",
+    "band": "Queen"
+  },
+  {
+    "title": "Stone Cold Crazy",
+    "band": "Queen"
+  },
+  {
+    "title": "Under Pressure",
+    "band": "Queen & David Bowie"
+  },
+  {
+    "title": "Avon",
+    "band": "Queens of the Stone Age"
+  },
+  {
+    "title": "How to Handle a Rope",
+    "band": "Queens of the Stone Age"
+  },
+  {
+    "title": "Little Sister",
+    "band": "Queens of the Stone Age"
+  },
+  {
+    "title": "Make It Wit Chu",
+    "band": "Queens Of The Stone Age"
+  },
+  {
+    "title": "Mexicola",
+    "band": "Queens of the Stone Age"
+  },
+  {
+    "title": "No One Knows",
+    "band": "Queens of the Stone Age"
+  },
+  {
+    "title": "Sick, Sick",
+    "band": "Queens of the Stone Age"
+  },
+  {
+    "title": "Jet City Woman",
+    "band": "Queensrÿche"
+  },
+  {
+    "title": "Escuela de Calor",
+    "band": "Radio Futura"
+  },
+  {
+    "title": "Killing in the Name",
+    "band": "Rage Against the Machine"
+  },
+  {
+    "title": "Du Hast",
+    "band": "Rammstein"
+  },
+  {
+    "title": "Waidmanns Heil",
+    "band": "Rammstein"
+  },
+  {
+    "title": "Round and Round",
+    "band": "Ratt"
+  },
+  {
+    "title": "Lunatic Fringe",
+    "band": "Red Rider"
+  },
+  {
+    "title": "Losing My Religion",
+    "band": "R.E.M."
+  },
+  {
+    "title": "The One I Love",
+    "band": "R.E.M."
+  },
+  {
+    "title": "What's the Frequency, Kenneth?",
+    "band": "R.E.M."
+  },
+  {
+    "title": "Psychobilly Freakout",
+    "band": "Reverend Horton Heat"
+  },
+  {
+    "title": "Re-Education (Through Labor)",
+    "band": "Rise Against"
+  },
+  {
+    "title": "Savior",
+    "band": "Rise Against"
+  },
+  {
+    "title": "Kids",
+    "band": "Robbie Williams & Kylie Minogue"
+  },
+  {
+    "title": "Sneak Out",
+    "band": "Rose Hill Drive"
+  },
+  {
+    "title": "Oh, Pretty Woman",
+    "band": "Roy Orbison"
+  },
+  {
+    "title": "2112 Pt. 1 - Overture",
+    "band": "Rush"
+  },
+  {
+    "title": "2112 Pt. 2 - The Temples of Syrinx",
+    "band": "Rush"
+  },
+  {
+    "title": "2112 Pt. 3 - Discovery",
+    "band": "Rush"
+  },
+  {
+    "title": "2112 Pt. 4 - Presentation",
+    "band": "Rush"
+  },
+  {
+    "title": "2112 Pt. 5 - Oracle: The Dream",
+    "band": "Rush"
+  },
+  {
+    "title": "2112 Pt. 6 - Soliloquy",
+    "band": "Rush"
+  },
+  {
+    "title": "2112 Pt. 7 - Grand Finale",
+    "band": "Rush"
+  },
+  {
+    "title": "Limelight",
+    "band": "Rush"
+  },
+  {
+    "title": "Red Barchetta",
+    "band": "Rush"
+  },
+  {
+    "title": "The Spirit of Radio (Live)",
+    "band": "Rush"
+  },
+  {
+    "title": "Tom Sawyer",
+    "band": "Rush"
+  },
+  {
+    "title": "YYZ",
+    "band": "Rush"
+  },
+  {
+    "title": "It's Only Another Parsec...",
+    "band": "RX Bandits"
+  },
+  {
+    "title": "Always",
+    "band": "Saliva"
+  },
+  {
+    "title": "Mother of Mercy",
+    "band": "Samhain"
+  },
+  {
+    "title": "No One to Depend On (Live)",
+    "band": "Santana"
+  },
+  {
+    "title": "L.E.S. Artistes",
+    "band": "Santigold"
+  },
+  {
+    "title": "Addicted",
+    "band": "Saving Abel"
+  },
+  {
+    "title": "They Say",
+    "band": "Scars on Broadway"
+  },
+  {
+    "title": "Broken Man",
+    "band": "Scott Mc Keon"
+  },
+  {
+    "title": "Nearly Lost You",
+    "band": "Screaming Trees"
+  },
+  {
+    "title": "Falling Down",
+    "band": "Selena Gomez & the Scene"
+  },
+  {
+    "title": "Pretty Vacant",
+    "band": "Sex Pistols"
+  },
+  {
+    "title": "Still I Rise",
+    "band": "Shadows Fall"
+  },
+  {
+    "title": "Devour",
+    "band": "Shinedown"
+  },
+  {
+    "title": "Second Chance",
+    "band": "Shinedown"
+  },
+  {
+    "title": "Sound Of Madness",
+    "band": "Shinedown"
+  },
+  {
+    "title": "Lazy Eye",
+    "band": "Silversun Pickups"
+  },
+  {
+    "title": "There's No Secrets This Year",
+    "band": "Silversun Pickups"
+  },
+  {
+    "title": "Nothing To Say",
+    "band": "Slash (With M.Shadows)"
+  },
+  {
+    "title": "We're All Gonna Die",
+    "band": "Slash (With Iggy Pop)"
+  },
+  {
+    "title": "Ghost",
+    "band": "Slash featuring Ian Astbury"
+  },
+  {
+    "title": "Watch This",
+    "band": "Slash (With Dave Grohl and Duff McKagan)"
+  },
+  {
+    "title": "Chemical Warfare",
+    "band": "Slayer"
+  },
+  {
+    "title": "Raining Blood",
+    "band": "Slayer"
+  },
+  {
+    "title": "War Ensemble",
+    "band": "Slayer"
+  },
+  {
+    "title": "Psychosocial",
+    "band": "Slipknot"
+  },
+  {
+    "title": "Deadfall",
+    "band": "Snot"
+  },
+  {
+    "title": "Hands Open",
+    "band": "Snow Patrol"
+  },
+  {
+    "title": "Take Back the City",
+    "band": "Snow Patrol"
+  },
+  {
+    "title": "You're All I Have",
+    "band": "Snow Patrol"
+  },
+  {
+    "title": "Mommy's Little Monster (Live)",
+    "band": "Social Distortion"
+  },
+  {
+    "title": "Incinerate",
+    "band": "Sonic Youth"
+  },
+  {
+    "title": "Birth Ritual",
+    "band": "Soundgarden"
+  },
+  {
+    "title": "Black Hole Sun",
+    "band": "Soundgarden"
+  },
+  {
+    "title": "Black Rain",
+    "band": "Soundgarden"
+  },
+  {
+    "title": "Blow Up the Outside World",
+    "band": "Soundgarden"
+  },
+  {
+    "title": "Burden in My Hand",
+    "band": "Soundgarden"
+  },
+  {
+    "title": "Fell on Black Days",
+    "band": "Soundgarden"
+  },
+  {
+    "title": "Hands All Over",
+    "band": "Soundgarden"
+  },
+  {
+    "title": "Hunted Down",
+    "band": "Soundgarden"
+  },
+  {
+    "title": "My Wave",
+    "band": "Soundgarden"
+  },
+  {
+    "title": "Outshined",
+    "band": "Soundgarden"
+  },
+  {
+    "title": "Rusty Cage",
+    "band": "Soundgarden"
+  },
+  {
+    "title": "Spoonman",
+    "band": "Soundgarden"
+  },
+  {
+    "title": "In The Meantime",
+    "band": "Spacehog"
+  },
+  {
+    "title": "Wannabe",
+    "band": "Spice Girls"
+  },
+  {
+    "title": "Plowed",
+    "band": "Sponge"
+  },
+  {
+    "title": "Sister Jack",
+    "band": "Spoon"
+  },
+  {
+    "title": "Do It Again",
+    "band": "Steely Dan"
+  },
+  {
+    "title": "Take the Money and Run",
+    "band": "Steve Miller Band"
+  },
+  {
+    "title": "The Joker",
+    "band": "Steve Miller Band"
+  },
+  {
+    "title": "God Save the Queen",
+    "band": "Steve Ouimette"
+  },
+  {
+    "title": "Hark! The Herald Angels Sing",
+    "band": "Steve Ouimette"
+  },
+  {
+    "title": "Il Canto degli Italiani",
+    "band": "Steve Ouimette"
+  },
+  {
+    "title": "La Marseillaise",
+    "band": "Steve Ouimette"
+  },
+  {
+    "title": "Lied der Deutschen",
+    "band": "Steve Ouimette"
+  },
+  {
+    "title": "The Star-Spangled Banner",
+    "band": "Steve Ouimette"
+  },
+  {
+    "title": "Speeding (Vault Version)",
+    "band": "Steve Vai"
+  },
+  {
+    "title": "Superstition",
+    "band": "Stevie Wonder"
+  },
+  {
+    "title": "Demolition Man (Live)",
+    "band": "Sting"
+  },
+  {
+    "title": "Between the Lines",
+    "band": "Stone Temple Pilots"
+  },
+  {
+    "title": "Interstate Love Song",
+    "band": "Stone Temple Pilots"
+  },
+  {
+    "title": "Plush",
+    "band": "Stone Temple Pilots"
+  },
+  {
+    "title": "Sex Type Thing",
+    "band": "Stone Temple Pilots"
+  },
+  {
+    "title": "Trippin' on a Hole in a Paper Heart",
+    "band": "Stone Temple Pilots"
+  },
+  {
+    "title": "100 Little Curses",
+    "band": "Street Sweeper Social Club"
+  },
+  {
+    "title": "Fight! Smash! Win!",
+    "band": "Street Sweeper Social Club"
+  },
+  {
+    "title": "Somewhere in the World It's Midnight",
+    "band": "Street Sweeper Social Club"
+  },
+  {
+    "title": "Calling",
+    "band": "Strung Out"
+  },
+  {
+    "title": "Toy Boy",
+    "band": "Stuck in the Sound"
+  },
+  {
+    "title": "Mr. Roboto",
+    "band": "Styx"
+  },
+  {
+    "title": "Renegade",
+    "band": "Styx"
+  },
+  {
+    "title": "Santeria",
+    "band": "Sublime"
+  },
+  {
+    "title": "What I Got",
+    "band": "Sublime"
+  },
+  {
+    "title": "War Inside My Head",
+    "band": "Suicidal Tendencies"
+  },
+  {
+    "title": "Fat Lip",
+    "band": "Sum 41"
+  },
+  {
+    "title": "In Too Deep",
+    "band": "Sum 41"
+  },
+  {
+    "title": "Motivation",
+    "band": "Sum 41"
+  },
+  {
+    "title": "Still Waiting",
+    "band": "Sum 41"
+  },
+  {
+    "title": "Seven",
+    "band": "Sunny Day Real Estate"
+  },
+  {
+    "title": "Eye of the Tiger",
+    "band": "Survivor"
+  },
+  {
+    "title": "B.Y.O.B.",
+    "band": "System of a Down"
+  },
+  {
+    "title": "Toxicity",
+    "band": "System of a Down"
+  },
+  {
+    "title": "20th Century Boy",
+    "band": "T. Rex"
+  },
+  {
+    "title": "Love Story",
+    "band": "Taylor Swift"
+  },
+  {
+    "title": "Our Song",
+    "band": "Taylor Swift"
+  },
+  {
+    "title": "Picture to Burn",
+    "band": "Taylor Swift"
+  },
+  {
+    "title": "You Belong With Me",
+    "band": "Taylor Swift"
+  },
+  {
+    "title": "Stranglehold",
+    "band": "Ted Nugent"
+  },
+  {
+    "title": "Ted Nugent Guitar Duel",
+    "band": "Ted Nugent"
+  },
+  {
+    "title": "Master Exploder",
+    "band": "Tenacious D"
+  },
+  {
+    "title": "Love Song",
+    "band": "Tesla"
+  },
+  {
+    "title": "Modern Day Cowboy",
+    "band": "Tesla"
+  },
+  {
+    "title": "Gasoline",
+    "band": "The Airborne Toxic Event"
+  },
+  {
+    "title": "Dirty Little Secret",
+    "band": "The All-American Rejects"
+  },
+  {
+    "title": "Gives You Hell",
+    "band": "The All-American Rejects"
+  },
+  {
+    "title": "Ramblin' Man",
+    "band": "The Allman Brothers Band"
+  },
+  {
+    "title": "Never Too Late",
+    "band": "The Answer"
+  },
+  {
+    "title": "Believe",
+    "band": "The Bravery"
+  },
+  {
+    "title": "Six Days a Week",
+    "band": "The Bronx"
+  },
+  {
+    "title": "Safe European Home",
+    "band": "The Clash"
+  },
+  {
+    "title": "Love Removal Machine",
+    "band": "The Cult"
+  },
+  {
+    "title": "Fascination Street",
+    "band": "The Cure"
+  },
+  {
+    "title": "We've Got A Situation Here",
+    "band": "The Damned Things"
+  },
+  {
+    "title": "Younk Funk",
+    "band": "The Derek Trucks Band"
+  },
+  {
+    "title": "Setting Fire to Sleeping Giants",
+    "band": "The Dillinger Escape Plan"
+  },
+  {
+    "title": "Take It Off",
+    "band": "The Donnas"
+  },
+  {
+    "title": "Love Me Two Times",
+    "band": "The Doors"
+  },
+  {
+    "title": "Send a Little Love Token",
+    "band": "The Duke Spirit"
+  },
+  {
+    "title": "Hotel California",
+    "band": "The Eagles"
+  },
+  {
+    "title": "Free Ride",
+    "band": "The Edgar Winter Group"
+  },
+  {
+    "title": "Aggro",
+    "band": "The Enemy"
+  },
+  {
+    "title": "Hey You",
+    "band": "The Exies"
+  },
+  {
+    "title": "The Geeks Were Right",
+    "band": "The Faint"
+  },
+  {
+    "title": "A Classic Case of Transference",
+    "band": "The Fall of Troy"
+  },
+  {
+    "title": "Panic Attack",
+    "band": "The Fall of Troy"
+  },
+  {
+    "title": "Single",
+    "band": "The Fall of Troy"
+  },
+  {
+    "title": "Our Lips Are Sealed",
+    "band": "The Go-Go's"
+  },
+  {
+    "title": "We Got the Beat",
+    "band": "The Go-Go's"
+  },
+  {
+    "title": "American Woman",
+    "band": "The Guess Who"
+  },
+  {
+    "title": "Tick Boom",
+    "band": "The Hives"
+  },
+  {
+    "title": "ABC",
+    "band": "The Jackson 5"
+  },
+  {
+    "title": "Purple Haze (Live)",
+    "band": "The Jimi Hendrix Experience"
+  },
+  {
+    "title": "All the Pretty Faces",
+    "band": "The Killers"
+  },
+  {
+    "title": "Naïve",
+    "band": "The Kooks"
+  },
+  {
+    "title": "Pictures of You",
+    "band": "The Last Goodnight"
+  },
+  {
+    "title": "Prisoner of Society",
+    "band": "The Living End"
+  },
+  {
+    "title": "L'Via L'Viaquez",
+    "band": "The Mars Volta"
+  },
+  {
+    "title": "The Impression That I Get",
+    "band": "The Mighty Mighty Bosstones"
+  },
+  {
+    "title": "Pretty Fly (For a White Guy)",
+    "band": "The Offspring"
+  },
+  {
+    "title": "Self Esteem",
+    "band": "The Offspring"
+  },
+  {
+    "title": "Message in a Bottle",
+    "band": "The Police"
+  },
+  {
+    "title": "So Lonely",
+    "band": "The Police"
+  },
+  {
+    "title": "Steady, As She Goes",
+    "band": "The Raconteurs"
+  },
+  {
+    "title": "Theme From Spider-Man",
+    "band": "The Ramones"
+  },
+  {
+    "title": "Hot Patootie",
+    "band": "The Rocky Horror Picture Show"
+  },
+  {
+    "title": "Sweet Transvestite",
+    "band": "The Rocky Horror Picture Show"
+  },
+  {
+    "title": "Time Warp",
+    "band": "The Rocky Horror Picture Show"
+  },
+  {
+    "title": "Honky Tonk Women",
+    "band": "The Rolling Stones"
+  },
+  {
+    "title": "(I Can't Get No) Satisfaction",
+    "band": "The Rolling Stones"
+  },
+  {
+    "title": "I'm Free",
+    "band": "The Rolling Stones"
+  },
+  {
+    "title": "Prodigal Son",
+    "band": "The Rolling Stones"
+  },
+  {
+    "title": "Stray Cat Blues",
+    "band": "The Rolling Stones"
+  },
+  {
+    "title": "Sympathy for the Devil",
+    "band": "The Rolling Stones"
+  },
+  {
+    "title": "Under My Thumb (Live)",
+    "band": "The Rolling Stones"
+  },
+  {
+    "title": "You Gotta Move",
+    "band": "The Rolling Stones"
+  },
+  {
+    "title": "Cherry Bomb",
+    "band": "The Runaways"
+  },
+  {
+    "title": "Bullet with Butterfly Wings",
+    "band": "The Smashing Pumpkins"
+  },
+  {
+    "title": "Today",
+    "band": "The Smashing Pumpkins"
+  },
+  {
+    "title": "Love Spreads",
+    "band": "The Stone Roses"
+  },
+  {
+    "title": "Black River",
+    "band": "The Sword"
+  },
+  {
+    "title": "Freya",
+    "band": "The Sword"
+  },
+  {
+    "title": "Maiden, Mother & Crone",
+    "band": "The Sword"
+  },
+  {
+    "title": "Happy Together",
+    "band": "The Turtles"
+  },
+  {
+    "title": "Buried Myself Alive",
+    "band": "The Used"
+  },
+  {
+    "title": "Pretty Handsome Awkward",
+    "band": "The Used"
+  },
+  {
+    "title": "Get Free",
+    "band": "The Vines"
+  },
+  {
+    "title": "Blue Orchid",
+    "band": "The White Stripes"
+  },
+  {
+    "title": "Seven Nation Army",
+    "band": "The White Stripes"
+  },
+  {
+    "title": "Scumbag Blues",
+    "band": "Them Crooked Vultures"
+  },
+  {
+    "title": "The Boys Are Back in Town",
+    "band": "Thin Lizzy"
+  },
+  {
+    "title": "Jailbreak",
+    "band": "Thin Lizzy"
+  },
+  {
+    "title": "Can You Take Me",
+    "band": "Third Eye Blind"
+  },
+  {
+    "title": "Graduate",
+    "band": "Third Eye Blind"
+  },
+  {
+    "title": "Losing a Whole Year",
+    "band": "Third Eye Blind"
+  },
+  {
+    "title": "Never Let You Go",
+    "band": "Third Eye Blind"
+  },
+  {
+    "title": "Semi-Charmed Life",
+    "band": "Third Eye Blind"
+  },
+  {
+    "title": "Deadbolt",
+    "band": "Thrice"
+  },
+  {
+    "title": "Monsoon",
+    "band": "Tokio Hotel"
+  },
+  {
+    "title": "Runnin' Down a Dream",
+    "band": "Tom Petty"
+  },
+  {
+    "title": "Listen to Her Heart",
+    "band": "Tom Petty and the Heartbreakers"
+  },
+  {
+    "title": "American Girl",
+    "band": "Tom Petty & The Heartbreakers"
+  },
+  {
+    "title": "If You Could Only See",
+    "band": "Tonic"
+  },
+  {
+    "title": "Guily Pleasures",
+    "band": "Tony Solis"
+  },
+  {
+    "title": "Parabola",
+    "band": "Tool"
+  },
+  {
+    "title": "Schism",
+    "band": "Tool"
+  },
+  {
+    "title": "Vicarious",
+    "band": "Tool"
+  },
+  {
+    "title": "Headstrong",
+    "band": "Trapt"
+  },
+  {
+    "title": "Lay It on the Line",
+    "band": "Triumph"
+  },
+  {
+    "title": "Antisocial",
+    "band": "Trust"
+  },
+  {
+    "title": "Wolf Like Me",
+    "band": "TV On The Radio"
+  },
+  {
+    "title": "I Wanna Rock",
+    "band": "Twisted Sister"
+  },
+  {
+    "title": "We're Not Gonna Take It",
+    "band": "Twisted Sister"
+  },
+  {
+    "title": "Who I Am",
+    "band": "Tyler Bryant"
+  },
+  {
+    "title": "The Bird and the Worm",
+    "band": "The Used"
+  },
+  {
+    "title": "The Taste of Ink",
+    "band": "The Used"
+  },
+  {
+    "title": "A-Punk",
+    "band": "Vampire Weekend"
+  },
+  {
+    "title": "Cousins",
+    "band": "Vampire Weekend"
+  },
+  {
+    "title": "The Kids Don't Stand a Chance",
+    "band": "Vampire Weekend"
+  },
+  {
+    "title": "Ain't Talkin' 'bout Love",
+    "band": "Van Halen"
+  },
+  {
+    "title": "And the Cradle Will Rock...",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Atomic Punk",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Beautiful Girls",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Cathedral",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Dance the Night Away",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Eruption",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Everybody Wants Some!!",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Feel Your Love Tonight",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Hang 'Em High",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Hear About It Later",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Hot for Teacher",
+    "band": "Van Halen"
+  },
+  {
+    "title": "I'm the One",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Ice Cream Man",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Intruder/(Oh) Pretty Woman",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Jamie's Cryin'",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Jump",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Little Guitars",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Loss of Control",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Mean Street",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Panama",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Romeo Delight",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Runnin' with the Devil",
+    "band": "Van Halen"
+  },
+  {
+    "title": "So This Is Love?",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Spanish Fly",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Unchained",
+    "band": "Van Halen"
+  },
+  {
+    "title": "You Really Got Me",
+    "band": "Van Halen"
+  },
+  {
+    "title": "Y.M.C.A.",
+    "band": "Village People"
+  },
+  {
+    "title": "Cherry Pie",
+    "band": "Warrant"
+  },
+  {
+    "title": "Beverly Hills",
+    "band": "Weezer"
+  },
+  {
+    "title": "Dope Nose",
+    "band": "Weezer"
+  },
+  {
+    "title": "Island in the Sun",
+    "band": "Weezer"
+  },
+  {
+    "title": "Pork and Beans",
+    "band": "Weezer"
+  },
+  {
+    "title": "Why Bother?",
+    "band": "Weezer"
+  },
+  {
+    "title": "Thunder Kiss '65",
+    "band": "White Zombie"
+  },
+  {
+    "title": "Play That Funky Music",
+    "band": "Wild Cherry"
+  },
+  {
+    "title": "On the Road Again (Live)",
+    "band": "Willie Nelson"
+  },
+  {
+    "title": "Band on the Run",
+    "band": "Wings"
+  },
+  {
+    "title": "Back Round",
+    "band": "Wolfmother"
+  },
+  {
+    "title": "California Queen",
+    "band": "Wolfmother"
+  },
+  {
+    "title": "Cosmic Egg",
+    "band": "Wolfmother"
+  },
+  {
+    "title": "Pilgrim",
+    "band": "Wolfmother"
+  },
+  {
+    "title": "Woman",
+    "band": "Wolfmother"
+  },
+  {
+    "title": "Dull Life",
+    "band": "Yeah Yeah Yeahs"
+  },
+  {
+    "title": "Ocean Avenue",
+    "band": "Yellowcard"
+  },
+  {
+    "title": "The Takedown",
+    "band": "Yellowcard"
+  },
+  {
+    "title": "Zakk Wylde Guitar Duel",
+    "band": "Zakk Wylde"
+  },
+  {
+    "title": "Sharp Dressed Man (Live)",
+    "band": "ZZ Top"
+  }
 ]

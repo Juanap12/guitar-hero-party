@@ -10,7 +10,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "seed": "bun scripts/seed.ts"
+    "seed": "bun scripts/seed.ts",
+    "sync-songs": "bun scripts/sync-songs.ts"
   },
   "dependencies": {
     "@astrojs/tailwind": "^5.1.5",

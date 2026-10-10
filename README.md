@@ -16,12 +16,16 @@ Configure Turso (or local LibSQL):
 | `TURSO_DATABASE_URL` | Turso URL (`libsql://...`) or local `file:local.db` |
 | `TURSO_AUTH_TOKEN` | Turso auth token (optional for `file:` URLs) |
 
-Seed the database (creates schema + sample songs from `songs.json` when empty):
+Seed the database (creates schema + loads `songs.json` when the DB is empty):
 
 ```bash
-bun scripts/seed.ts
-# or
 bun run seed
+```
+
+After you change `songs.json`, sync the live catalog (keeps reservations for songs that still match):
+
+```bash
+bun run sync-songs
 ```
 
 Start dev:
@@ -49,4 +53,4 @@ bun run dev
 
 ## Deploy (Vercel)
 
-Set `TURSO_DATABASE_URL` and `TURSO_AUTH_TOKEN` in Vercel project settings. Run `bun run seed` against production once (or seed via Turso shell) before the party.
+Set `TURSO_DATABASE_URL` and `TURSO_AUTH_TOKEN` in Vercel project settings. Run `bun run seed` on an empty DB, or `bun run sync-songs` to refresh the setlist before the party.
